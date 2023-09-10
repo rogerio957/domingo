@@ -1,0 +1,3509 @@
+#EXTM3U
+#EXTINF:-1,====== INFO IPTV VON ULTRA HD IPTV =======
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24511
+#EXTINF:-1,TR: TRT 1 ULTRAHD 1920/1080
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24480
+#EXTINF:-1,TRT 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24481
+#EXTINF:-1,TR: TRT 4K FHD 1920
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24482
+#EXTINF:-1,TR: TRT 2 HD 1280/720
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24506
+#EXTINF:-1,TR: TRT 2 FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24503
+#EXTINF:-1,TR: STAR HD 1920/1080
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24475
+#EXTINF:-1,TR: STAR ULTRAHD-4K@
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24476
+#EXTINF:-1,TR: EURO STAR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24500
+#EXTINF:-1,TR: ATV HD 1920/1080
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24467
+#EXTINF:-1,TR: ATV ULTRAHD-4K@
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24470
+#EXTINF:-1,TR: ATV AVRUPA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24501
+#EXTINF:-1,TR: KANAL D  HD 1920/1080
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24477
+#EXTINF:-1,TR: EURO D
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24499
+#EXTINF:-1,TR: SHOW TV HD 1920/1080
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24471
+#EXTINF:-1,TR: SHOW TV ULTRAHD-4K@
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24472
+#EXTINF:-1,TR: SHOW TURK
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24466
+#EXTINF:-1,TR: SHOW MAX HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33386
+#EXTINF:-1,TR: FOX TV HD 1920/1080
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24473
+#EXTINF:-1,TR: FOX TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24474
+#EXTINF:-1,TR: KANAL 7 HD 1920/1080P
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24478
+#EXTINF:-1,TR: KANAL 7 ULTRAHD-4K@ LOCAL
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24479
+#EXTINF:-1,TR: KANAL 7 AVRUPA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/30361
+#EXTINF:-1,TR: TV 8 HD 1920/1080
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24483
+#EXTINF:-1,TR: TV 8 ULTRAHD-4K@
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24484
+#EXTINF:-1,TR: TEVE 2 FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24507
+#EXTINF:-1,TR: TEVE 2 HD 1920/1080
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24508
+#EXTINF:-1,TR: TV 8,5 UHD-4K
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24512
+#EXTINF:-1,TR: TV 8,5 HD 1920/1080
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24513
+#EXTINF:-1,TR: BEYAZ TV HD 1920/1080
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24497
+#EXTINF:-1,TR: BEYAZ TV HD 
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24485
+#EXTINF:-1,TR: 360 HD 1920/1080P
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24509
+#EXTINF:-1,TR: 360 TV FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24468
+#EXTINF:-1,TR: A2 HD 1920/1080
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24514
+#EXTINF:-1,TR: A2 FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24469
+#EXTINF:-1,TR: ARTI 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/24502
+#EXTINF:-1,TR: ULTRA HD KANALLAR HEVC
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33530
+#EXTINF:-1,TR: TRT 1 H265
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33531
+#EXTINF:-1,TR: STAR TV H265
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33535
+#EXTINF:-1,TR: ATV H265
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33532
+#EXTINF:-1,TR: SHOW TV H265
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33534
+#EXTINF:-1,TR: KANAL D H265
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33533
+#EXTINF:-1,TR: FOX TV H265
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37561
+#EXTINF:-1,TR: TV 8 H265
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37562
+#EXTINF:-1,TR: BEYAZ TV H265
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33537
+#EXTINF:-1,TR: A2 H265
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33539
+#EXTINF:-1,===== TR: YEREL KANALLAR =====
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/16262
+#EXTINF:-1,TR: VATAN TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/4792
+#EXTINF:-1,TR: CAY TV 
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/19964
+#EXTINF:-1,TR: MAVI KARADENIZ TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/16096
+#EXTINF:-1,TR: YOL TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9683
+#EXTINF:-1,TR: CAN Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/14859
+#EXTINF:-1,TR: CEM TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/10087
+#EXTINF:-1,TR: FLASH TV HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35035
+#EXTINF:-1,TR===HABERLER===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/12530
+#EXTINF:-1,TR: A HABER HD 1920/1080P
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/15268
+#EXTINF:-1,TR: A HABER ULTRAHD-4K-@
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5504
+#EXTINF:-1,TR: TGRT HABER HD 1920/1080P
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5475
+#EXTINF:-1,TR: HABER GLOBAL
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35203
+#EXTINF:-1,TR: TV 100
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33512
+#EXTINF:-1,TR: TGRT HABER FHD 
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/15182
+#EXTINF:-1,TR: HABER TURK FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/15184
+#EXTINF:-1,TR: ULKE TV HD 1920/1080P
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/15561
+#EXTINF:-1,TR: ULKE TV HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3196
+#EXTINF:-1,TR: NTV HD 1920/1080P
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/10233
+#EXTINF:-1,TR: NTV ULTRA-HD-4 K@
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5503
+#EXTINF:-1,TR: TRT HABER HD 1280/720
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5476
+#EXTINF:-1,TR: TRT HABER ULTRAHD-4K@
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5505
+#EXTINF:-1,TR: KANAL 24 HD 1920/1080P
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/15183
+#EXTINF:-1,TR: KANAL 24 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3198
+#EXTINF:-1,TR: CNN TURK HD 1920/1080P
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3118
+#EXTINF:-1,TR: CNN TURK
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/30385
+#EXTINF:-1,TR: HALK TV FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/15606
+#EXTINF:-1,TR: TELE 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/10283
+#EXTINF:-1,TR: KANAL B HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/10250
+#EXTINF:-1,TR: ULUSAL TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9680
+#EXTINF:-1,TR: KRT TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/7632
+#EXTINF:-1,TR===BELGESELLER===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/12532
+#EXTINF:-1,TR: VIASAT EXPLORE
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3437
+#EXTINF:-1,TR: Viasat History HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/19791
+#EXTINF:-1,D-Smart=National Geo WILD CANLI
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3436
+#EXTINF:-1,TR: HISTORY
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/4987
+#EXTINF:-1,D Smart=NATIONAL GEOGRAPHIC CHANNEL
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3433
+#EXTINF:-1,D-Smart=DISCOVERY SCIENCE HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3435
+#EXTINF:-1,TR: Discovery Channel HD CANLI
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3438
+#EXTINF:-1,TR: TLC
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/4986
+#EXTINF:-1,TR: TRT BELGESEL HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/10004
+#EXTINF:-1,TR: DMAX 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/12681
+#EXTINF:-1,TR: beIN GURME
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/18078
+#EXTINF:-1,TR: beIN IZ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/18079
+#EXTINF:-1,TR===SPOR===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/12531
+#EXTINF:-1,TR: BEiN SPORT HABER HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9689
+#EXTINF:-1,TR: BEIN SPORTS HD 1 K4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/30330
+#EXTINF:-1,TR: BEIN SPORT 1 HD 265 HEVC
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/26585
+#EXTINF:-1,TR: beIN SPORTS 1 HD 1920/1080P LOCAL
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/18523
+#EXTINF:-1,TR: beIN SPORTS 2 HD 1920/1080P LOCAL
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/18524
+#EXTINF:-1,TR: beIN SPORTS 3 HD 1920/1080P LOCAL
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/18525
+#EXTINF:-1,TR: beIN SPORTS 4 HD 1920/1080P LOCAL
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/18066
+#EXTINF:-1,TR: BEIN SPORTS HD 1 1280/720 P
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/19737
+#EXTINF:-1,TR: BEIN SPORTS HD 2 1280/720 P
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/19780
+#EXTINF:-1,TR: BEIN SPORTS HD 3 1280/720 P
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/19785
+#EXTINF:-1,TR: BEIN SPORTS HD 4 1280/720 P
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/18529
+#EXTINF:-1,TR: BEIN SPORTS 1 FHD 1920/1080i
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/18067
+#EXTINF:-1,TR: BEIN SPORTS 2 FHD 1920/1080i
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/18068
+#EXTINF:-1,TR: BEIN SPORTS 3 FHD 1920/1080i
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/18069
+#EXTINF:-1,TR: BEIN SPORTS 4 FHD 1920/1080i
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/18070
+#EXTINF:-1,TR: BEIN SPORTS 1 HD LOCAL 1920/1080
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5534
+#EXTINF:-1,TR: BEIN SPORTS 2 HD LOCAL 1920/1080
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3220
+#EXTINF:-1,TR: BEIN SPORTS 3 HD LOCAL 1920/1080
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3221
+#EXTINF:-1,TR: BEIN SPORTS 4 HD LOCAL 1920/1080
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/7534
+#EXTINF:-1,TR:SADECE SUPER LIG 1 MACLARI
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/18521
+#EXTINF:-1,TR: bein sport 2 sadece turk ligi
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/14742
+#EXTINF:-1,TR: Lig TV 1 K4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9648
+#EXTINF:-1,TR: Lig TV 2 K4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9745
+#EXTINF:-1,TR: LIG TV 3 K4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9787
+#EXTINF:-1,TR: BEIN SPORTS MAX 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5692
+#EXTINF:-1,TR: BEIN SPORTS MAX 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22981
+#EXTINF:-1,TR: EXXEN SPORT 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33946
+#EXTINF:-1,TR: Exxen Spor 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33856
+#EXTINF:-1,TR: EXXEN SPORT 3 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33947
+#EXTINF:-1,TR: Exxen Spor 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33857
+#EXTINF:-1,TR: EXXEN SPORT 4 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33948
+#EXTINF:-1,TR: EXXEN SPORT 5 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33949
+#EXTINF:-1,TR: Exxen Spor 5 
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33938
+#EXTINF:-1,TR: TRT SPOR HD 1920/1080P
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3133
+#EXTINF:-1,TR: TRT 2 SPOR HD 1280/720
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9642
+#EXTINF:-1,TR: TRT SPOR YILDIZ HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36947
+#EXTINF:-1,TR: A SPOR 1920/1080
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33352
+#EXTINF:-1,TR: A SPOR HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5502
+#EXTINF:-1,TR: S-SPORT 1 HD 1920/1080P
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5906
+#EXTINF:-1,TR: S SPORT 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22903
+#EXTINF:-1,TR: GALATASARAY TV 1920/1080P
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3102
+#EXTINF:-1,TR: TIVIBUSPOR 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/2861
+#EXTINF:-1,TR: TIVIBUSPOR 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/2862
+#EXTINF:-1,TR: TIVIBUSPOR 3 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5392
+#EXTINF:-1,TR: SMART SPOR HD 1920/1080P
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3087
+#EXTINF:-1,TR: Smart Spor 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32369
+#EXTINF:-1,TR: EuroSport 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3491
+#EXTINF:-1,TR: EuroSport 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3492
+#EXTINF:-1,TR: FB TV 1280/720
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3194
+#EXTINF:-1,TR| DIGITURK | BEINMOVIES PREMIER HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/16142
+#EXTINF:-1,TR===COCUK-BOLUMU===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/14900
+#EXTINF:-1,TR:TRT COCUK HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/7526
+#EXTINF:-1,TR: PEPE TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/25360
+#EXTINF:-1,DE: Disney Channel
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/2836
+#EXTINF:-1,TR: BABY TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5175
+#EXTINF:-1,TR: MINIKA GO HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/2832
+#EXTINF:-1,minika cocuk
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/2833
+#EXTINF:-1,TR===MUZIK===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/15986
+#EXTINF:-1,TR: KRAL POP HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3216
+#EXTINF:-1,TR: KRAL TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/17952
+#EXTINF:-1,TR: NUMBER ONE TURK HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5697
+#EXTINF:-1,TR: TRT MUZIK
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3653
+#EXTINF:-1,TR: POWER TURK HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5698
+#EXTINF:-1,TR: DREAM TURK
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5696
+#EXTINF:-1,TR===DINI-KANALLAR===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/15988
+#EXTINF:-1,TR: SEMERKANT TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/16359
+#EXTINF:-1,TR: Dost TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/16362
+#EXTINF:-1,TR: Akit TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/21230
+#EXTINF:-1,DE: HEVC DEUTSCHE SENDER 265H
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33974
+#EXTINF:-1,|DE| SKY ATLANTIC HEVC
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34000
+#EXTINF:-1,|DE| SKY KRIMI HEVC
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34011
+#EXTINF:-1,DE:=== DEUTSCHE SENDE===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/14898
+#EXTINF:-1,DE: ARD HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/2975
+#EXTINF:-1,ZDF HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3063
+#EXTINF:-1,DE: WDR HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3643
+#EXTINF:-1,DE: Sat 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33417
+#EXTINF:-1,DE: RTL HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33332
+#EXTINF:-1,DE: KABEL 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/1573
+#EXTINF:-1,DE: Prosieben HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33335
+#EXTINF:-1,DE: RTL 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33336
+#EXTINF:-1,DE: VOX HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33333
+#EXTINF:-1,DE: SIXX HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/2800
+#EXTINF:-1,DE SAT 1 GOLD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5411
+#EXTINF:-1,DE: PRO7 MAXX
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5417
+#EXTINF:-1,DE: TELE 5 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/16303
+#EXTINF:-1,DE: RTL Up HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34857
+#EXTINF:-1,DE: Super RTL HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/2799
+#EXTINF:-1,DE: KABEL EINS DOCU HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/15152
+#EXTINF:-1,DE: KABEL EINS CLASSIC HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/15160
+#EXTINF:-1,DE: TOGGO PLUS
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/15270
+#EXTINF:-1,DE: SAT 1 EMOTION HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9743
+#EXTINF:-1,DE: PRO7 Fun HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/26584
+#EXTINF:-1,DE: DMAX HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/2805
+#EXTINF:-1,DE: MDR Fernseher
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35334
+#EXTINF:-1,DE Phoenix
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5407
+#EXTINF:-1,DE: ZDF NEO HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/12326
+#EXTINF:-1,DE: 3Sat HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/10249
+#EXTINF:-1,DE:N24
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5388
+#EXTINF:-1,DE: ARTE HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36393
+#EXTINF:-1,AT: ATV HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/15273
+#EXTINF:-1,AT: ORF 1 HD AUSTRIA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9741
+#EXTINF:-1,AT: ORF 2 HD AUSTRIA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9742
+#EXTINF:-1,AT: ORF 3 HD AUSTRIA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/16973
+#EXTINF:-1,DE: ===== SKY CINEMA =====
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/15180
+#EXTINF:-1,DE: Sky One HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6146
+#EXTINF:-1,DE: SKY ACTION HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6147
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6148
+#EXTINF:-1,DE: Sky Cinema Best Of  HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/18077
+#EXTINF:-1,DE: SKY CINEMA PREMIEREN HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/16302
+#EXTINF:-1,DE: Sky Cinema Premieren +24 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5161
+#EXTINF:-1,DE: SKY CINEMA FAMILY
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6172
+#EXTINF:-1,DE: SKY Cinema Thriller HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/18075
+#EXTINF:-1,DE: SKY CINEMA SPECIAL HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9744
+#EXTINF:-1,DE: SKY KRIMI
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6178
+#EXTINF:-1,DE: Universal Channel HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/1625
+#EXTINF:-1,DE: WARNER FILM
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6040
+#EXTINF:-1,DE: WARNER COMEDY HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6041
+#EXTINF:-1,DE: WARNER SERIE HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6221
+#EXTINF:-1,DE: SKY SYFY HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6220
+#EXTINF:-1,DE: 13TH STREET HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6128
+#EXTINF:-1,DE: E Entertainm HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9690
+#EXTINF:-1,DE: NATIONAL GEO HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6042
+#EXTINF:-1,DE: National Geo Wild HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6043
+#EXTINF:-1,DE: SKY DISCOVERY CHANNEL HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36381
+#EXTINF:-1,DE: HISTORY CHANNEL
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6139
+#EXTINF:-1,DE: SPIEGEL GESCHICHTE SD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9713
+#EXTINF:-1,DE: SKY CINEMA FUN HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6173
+#EXTINF:-1,DE: AXN Sony HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/14864
+#EXTINF:-1,DE: Romance TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/14873
+#EXTINF:-1,DE: TLC
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/12336
+#EXTINF:-1,DE: RTL LIVING
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6144
+#EXTINF:-1,DE: RTL PASSION
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6145
+#EXTINF:-1,DE: SKY KINOWELT TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6177
+#EXTINF:-1,DE: Sky Store Info
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37664
+#EXTINF:-1,DE: Select 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37654
+#EXTINF:-1,DE: Select 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37655
+#EXTINF:-1,DE: Select 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37656
+#EXTINF:-1,DE: Select 4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37657
+#EXTINF:-1,DE: Select 5
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37658
+#EXTINF:-1,DE: Select 6
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37659
+#EXTINF:-1,DE: Select 7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37660
+#EXTINF:-1,DE: Select 8
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37661
+#EXTINF:-1,DE: Select 9
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37662
+#EXTINF:-1,DE: Select 10
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37663
+#EXTINF:-1,DE: Skyselect HD 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9136
+#EXTINF:-1,SKY SELECT  6
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37129
+#EXTINF:-1,DE: DISNEY CHANNEL
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6132
+#EXTINF:-1,DE: DISNEY JUNIOR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6133
+#EXTINF:-1,DE: NICK +
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6140
+#EXTINF:-1,DE: DISNEY XD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6049
+#EXTINF:-1,DE: Nickelodeon HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/2801
+#EXTINF:-1,DE: Sky Sport News HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33854
+#EXTINF:-1,DE: Sky Bulli 1 4K+ (VIP)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31161
+#EXTINF:-1,DE: Sky Bulli 2 4K+ (VIP)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9731
+#EXTINF:-1,DE: Sky Bulli 3 4K+ (VIP)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9732
+#EXTINF:-1,DE: Sky Bulli 5 4K+ (VIP)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9734
+#EXTINF:-1,DE: Sky Bulli 7 4K+ (VIP)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9736
+#EXTINF:-1,DE: Sky Bulli 9 4K+ (VIP)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/9738
+#EXTINF:-1,DE: Sky Bulli 8 4K+ (VIP)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/17959
+#EXTINF:-1,DE: Sky Bulli 10 4K+ (VIP)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/18080
+#EXTINF:-1,DE: BULLI 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31180
+#EXTINF:-1,DE: bulli HD 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5295
+#EXTINF:-1,DE: bulli HD 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6155
+#EXTINF:-1,DE: bulli HD 4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6157
+#EXTINF:-1,DE: bulli HD 5
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6159
+#EXTINF:-1,DE: bulli HD 6
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6161
+#EXTINF:-1,DE: bulli HD 7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5983
+#EXTINF:-1,DE: bulli HD 7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6163
+#EXTINF:-1,DE: bulli HD 8 
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5984
+#EXTINF:-1,DE: bulli 8 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6165
+#EXTINF:-1,DE: bulli HD 9 
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5985
+#EXTINF:-1,DE: bulli HD 9
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6167
+#EXTINF:-1,DE: bulli HD 10
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6151
+#EXTINF:-1,DE_SKY SPORT AUSTRIA 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33940
+#EXTINF:-1,|DE| Sky Sport Austria 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37555
+#EXTINF:-1,|DE| Sky Sport Austria 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37556
+#EXTINF:-1,|DE| Sky Sport Austria 4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37557
+#EXTINF:-1,|DE| Sky Sport Austria 5
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37558
+#EXTINF:-1,|DE| Sky Sport Austria 6
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37559
+#EXTINF:-1,|DE| Sky Sport Austria 7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37560
+#EXTINF:-1,DE: SKY SPORT F1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/30363
+#EXTINF:-1,DE: DAZN 1 Bar 
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6291
+#EXTINF:-1,DE: DAZN 2 Bar 
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6292
+#EXTINF:-1,DE: SPORT 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6196
+#EXTINF:-1,DE: SPORT 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6204
+#EXTINF:-1,DE: SPORT 4 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/3208
+#EXTINF:-1,DE: SPORT 4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6206
+#EXTINF:-1,DE: SPORT 5
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6208
+#EXTINF:-1,DE: SPORT 6
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6210
+#EXTINF:-1,DE: SPORT 7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6212
+#EXTINF:-1,DE: SPORT 9
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6216
+#EXTINF:-1,DE: SPORT 10 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/20842
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6134
+#EXTINF:-1,DE: EUROSPORT 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6135
+#EXTINF:-1,KRD: NRT 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22183
+#EXTINF:-1,KRD: ISHTAR TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22184
+#EXTINF:-1,FR: RMC SPORT 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22889
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22890
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22891
+#EXTINF:-1,FR: RMC SPORT 4 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22892
+#EXTINF:-1,FR: BEINSPORT.1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22893
+#EXTINF:-1,FR: BEINSPORT.2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22894
+#EXTINF:-1,FR: BEIN MAX 4 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22896
+#EXTINF:-1,FR: BEIN MAX 5 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22897
+#EXTINF:-1,FR: BEIN MAX 6 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22898
+#EXTINF:-1,FR: BEIN MAX 7 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22899
+#EXTINF:-1,FR: BEIN MAX 8 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22900
+#EXTINF:-1,FR: BEIN MAX 9 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22901
+#EXTINF:-1,FR: BEIN MAX 10 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22902
+#EXTINF:-1,TR: S Spor HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/12579
+#EXTINF:-1,DE: SKY Cinema Classics
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/20020
+#EXTINF:-1,TR| DIGITURK | BEINSERIES SCI-FI HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/16146
+#EXTINF:-1,TR: DIGITURK BEIN MOVIES TURK HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/16133
+#EXTINF:-1,TR: VIZYON 58 TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/21769
+#EXTINF:-1,PL: TVN 24 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22112
+#EXTINF:-1,PL: HBO2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22114
+#EXTINF:-1,PL: Polsat HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22108
+#EXTINF:-1,PL: TVN 7 FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22111
+#EXTINF:-1,PL: POLSAT 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22118
+#EXTINF:-1,TR: KANAL AVRUPA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22133
+#EXTINF:-1,##### HRVATSKA #####
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22712
+#EXTINF:-1,HRT 1 (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22713
+#EXTINF:-1,HRT 2 (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22714
+#EXTINF:-1,HRT 3 (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22715
+#EXTINF:-1,HRT 4 (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22716
+#EXTINF:-1,HRT INT (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22717
+#EXTINF:-1,NOVA HD (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22718
+#EXTINF:-1,NOVA TV (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22719
+#EXTINF:-1,DOMA TV (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22720
+#EXTINF:-1,RTL TV (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22721
+#EXTINF:-1,RTL 2 (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22722
+#EXTINF:-1,RTL ADRIA (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22723
+#EXTINF:-1,RTL LIVING (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22725
+#EXTINF:-1,RTL PASSION (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22726
+#EXTINF:-1,RTL KOCKICA (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22727
+#EXTINF:-1,RTL CROATIA WORD (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22728
+#EXTINF:-1,OSIJECKA (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22729
+#EXTINF:-1,LAUDATO TV (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22730
+#EXTINF:-1,KLASIK (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22731
+#EXTINF:-1,CAPITAL  (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22732
+#EXTINF:-1,KANAL R (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22733
+#EXTINF:-1,TREND TV (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22734
+#EXTINF:-1,SLAVONSKA TV (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22735
+#EXTINF:-1,CRO TV (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22739
+#EXTINF:-1,Z1 (HR)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/22740
+#EXTINF:-1,DE: RTL CRIME HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/1620
+#EXTINF:-1,DE: RTL NITRO
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/5420
+#EXTINF:-1,AFG: ATN International
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/29830
+#EXTINF:-1,AFG: ATN Europe
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/29831
+#EXTINF:-1,AFG: One TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/29833
+#EXTINF:-1,AFG: GEM TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/29836
+#EXTINF:-1,AFG: GEM Drama
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/29837
+#EXTINF:-1,AFG: GEM Seris
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/29838
+#EXTINF:-1,AFG: GEM BoolyWood
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/29839
+#EXTINF:-1,AFG: GEM Food
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/29840
+#EXTINF:-1,AFG: Zarin TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/29841
+#EXTINF:-1,AFG: Shamshad TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/29843
+#EXTINF:-1,AFG: Khurshid TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/29845
+#EXTINF:-1,AFG: Khaiber TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/29846
+#EXTINF:-1,AFG: Khyber News
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/29847
+#EXTINF:-1,AFG: Bahar TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/29848
+#EXTINF:-1,AFG: Palwasha TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/29849
+#EXTINF:-1,AFG: Payam-E-Afghan TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/29850
+#EXTINF:-1,AFG: KABUL TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/29851
+#EXTINF:-1,AFG: Pamir TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/29852
+#EXTINF:-1,[RO] TVR 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31379
+#EXTINF:-1,[RO] TVR 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31380
+#EXTINF:-1,RO: TVR 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34910
+#EXTINF:-1,[RO] ProTV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31424
+#EXTINF:-1,[RO] Pro 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31422
+#EXTINF:-1,[RO] PRO-X
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31423
+#EXTINF:-1,[RO] Kanal D
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31487
+#EXTINF:-1,[RO] Antena 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31453
+#EXTINF:-1,[RO] Antena 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31454
+#EXTINF:-1,RO Antena Stars
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31455
+#EXTINF:-1,[RO] Pro Gold
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31383
+#EXTINF:-1,[RO] Pro Cinema
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31384
+#EXTINF:-1,[RO] Pro Tv International
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31385
+#EXTINF:-1,[RO] HBO 2 RO
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31482
+#EXTINF:-1,[RO] HBO 3 RO
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31483
+#EXTINF:-1,[RO] Trinitas
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31299
+#EXTINF:-1,[RO] Credo Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31300
+#EXTINF:-1,[RO] Alfa & Omega
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31301
+#EXTINF:-1,[RO] Speranta Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31302
+#EXTINF:-1,[RO] Profit TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31303
+#EXTINF:-1,[RO] National Cluj
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31304
+#EXTINF:-1,[RO] Travel Mix
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31306
+#EXTINF:-1,[RO] Tele Moldova
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31308
+#EXTINF:-1,[RO] Intermedia Suceava
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31309
+#EXTINF:-1,[RO] Bucovina Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31310
+#EXTINF:-1,[RO] Plus Suceava
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31311
+#EXTINF:-1,[RO] Nest TV SV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31312
+#EXTINF:-1,[RO] Canal 33
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31315
+#EXTINF:-1,[RO] Est TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31316
+#EXTINF:-1,[RO] Tele M Botosani
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31317
+#EXTINF:-1,[RO] BIT TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31318
+#EXTINF:-1,[RO] Tv Sud Est
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31321
+#EXTINF:-1,[RO] Etno
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31322
+#EXTINF:-1,[RO] Favorit TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31323
+#EXTINF:-1,[RO] Taraf Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31324
+#EXTINF:-1,[RO] Hora Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31325
+#EXTINF:-1,[RO] ZU TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31326
+#EXTINF:-1,[RO] Hit Music
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31327
+#EXTINF:-1,[RO] UTV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31328
+#EXTINF:-1,[RO] TV5 Monde
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31330
+#EXTINF:-1,[RO] MTV Rocks
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31331
+#EXTINF:-1,[RO] MTV Dance
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31332
+#EXTINF:-1,[RO] MTV HITS
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31333
+#EXTINF:-1,[RO] Mooz RO
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31334
+#EXTINF:-1,[RO] VH 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31335
+#EXTINF:-1,[RO] VH 1 Classic
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31336
+#EXTINF:-1,[RO] 1 Music Channel
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31337
+#EXTINF:-1,[RO] Disney Channel
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31338
+#EXTINF:-1,[RO] Cartoon Network
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31339
+#EXTINF:-1,[RO] Minimax
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31340
+#EXTINF:-1,[RO] Boomerang
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31341
+#EXTINF:-1,[RO] Nickelodeon Ro
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31342
+#EXTINF:-1,[RO] JimJam
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31344
+#EXTINF:-1,[RO] Duck Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31345
+#EXTINF:-1,[RO] Eurosport 1 Romania
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31346
+#EXTINF:-1,[RO] Eurosport 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31347
+#EXTINF:-1,[RO] Look Sport 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31349
+#EXTINF:-1,[RO] Extreme Sports Channel
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31351
+#EXTINF:-1,[RO] Auto Motor Sport
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31352
+#EXTINF:-1,[RO] E!
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31353
+#EXTINF:-1,[RO] Viasat History
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31355
+#EXTINF:-1,[RO] Viasat Nature
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31357
+#EXTINF:-1,[RO] National Geographic
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31358
+#EXTINF:-1,[RO] Nat Geo Wild
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31359
+#EXTINF:-1,[RO] Animal Planet
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31360
+#EXTINF:-1,[RO] Discovery Science
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31361
+#EXTINF:-1,[RO] Discovery Turbo Xtra
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31362
+#EXTINF:-1,[RO] Investigation Discovery
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31363
+#EXTINF:-1,[RO] TLC RO
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31364
+#EXTINF:-1,[RO] Tv Paprika
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31366
+#EXTINF:-1,[RO] BBC Earth
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31367
+#EXTINF:-1,[RO] Fine Living
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31368
+#EXTINF:-1,[RO] Fishing & Hunting
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31369
+#EXTINF:-1,[RO] CBS Reality
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31370
+#EXTINF:-1,[RO] Epic Drama
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31371
+#EXTINF:-1,[RO] Food Network
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31372
+#EXTINF:-1,[RO] Happy Channel
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31377
+#EXTINF:-1,[RO] Prima Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31378
+#EXTINF:-1,[RO] Tvr International
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31386
+#EXTINF:-1,[RO] Agro TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31387
+#EXTINF:-1,[RO] Realitatea Plus
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31389
+#EXTINF:-1,[RO] Romania Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31390
+#EXTINF:-1,[RO] N24
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31391
+#EXTINF:-1,[RO] National Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31392
+#EXTINF:-1,[RO] Nasul TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31393
+#EXTINF:-1,[RO] B1 TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31394
+#EXTINF:-1,[RO] Film Now
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31395
+#EXTINF:-1,[RO] Cinemax Ro
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31399
+#EXTINF:-1,[RO] Cinemax 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31400
+#EXTINF:-1,[RO] TV1000
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31401
+#EXTINF:-1,[RO] Film Cafe
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31402
+#EXTINF:-1,[RO] AXN Romania
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31403
+#EXTINF:-1,[RO] AXN Black
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31404
+#EXTINF:-1,[RO] AXN Spin
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31405
+#EXTINF:-1,[RO] TNT
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31406
+#EXTINF:-1,[RO] AMC
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31407
+#EXTINF:-1,[RO] Diva Universal
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31408
+#EXTINF:-1,[RO] Paramount Channel
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31409
+#EXTINF:-1,[RO] ComedyEst
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31411
+#EXTINF:-1,[RO] Bollywood TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31412
+#EXTINF:-1,[RO] Bollywood Clasic
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31413
+#EXTINF:-1,[RO] Filmbox Premium
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31415
+#EXTINF:-1,[RO] FilmBox Family
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31416
+#EXTINF:-1,[RO] FilmBox Plus
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31417
+#EXTINF:-1,[RO] NatGeo
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31419
+#EXTINF:-1,[RO] NatGeo Wild
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31420
+#EXTINF:-1,[RO] Rock TV Full
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31425
+#EXTINF:-1,[RO] Travel Channel
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31426
+#EXTINF:-1,[RO] Travel Mix
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31427
+#EXTINF:-1,[RO] UTV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31429
+#EXTINF:-1,[RO] Viasat Nature
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31430
+#EXTINF:-1,[RO] ZUTV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31431
+#EXTINF:-1,[RO] Viasat Explore
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31432
+#EXTINF:-1,[RO] AXN White
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31434
+#EXTINF:-1,[RO] DaVinci Learning
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31435
+#EXTINF:-1,[RO] History Channel RO
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31437
+#EXTINF:-1,[RO] DIGI ANIMAL WORLD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31438
+#EXTINF:-1,[RO] Digi World
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31440
+#EXTINF:-1,[RO] Discovery RO
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31441
+#EXTINF:-1,[RO] Disney Junior
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31442
+#EXTINF:-1,[RO] DIGI Sport 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31444
+#EXTINF:-1,[RO] DIGI Sport 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31445
+#EXTINF:-1,[RO] DIGI Sport 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31446
+#EXTINF:-1,[RO] Telekom Sport 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31448
+#EXTINF:-1,[RO] Telekom Sport 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31449
+#EXTINF:-1,[RO] Telekom Sport 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31450
+#EXTINF:-1,[RO] EUROSPORT
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31452
+#EXTINF:-1,[RO] AXN
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31456
+#EXTINF:-1,[RO] Cinemaraton
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31458
+#EXTINF:-1,[RO] Cinemax 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31459
+#EXTINF:-1,[RO] Cinemax RO
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31460
+#EXTINF:-1,[RO] Digi 24
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31462
+#EXTINF:-1,[RO] Digi Animal World
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31463
+#EXTINF:-1,[RO] Digi Life
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31464
+#EXTINF:-1,[RO] Digi Sport 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31466
+#EXTINF:-1,[RO] Digi Sport 4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31468
+#EXTINF:-1,[RO] Digi World
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31469
+#EXTINF:-1,[RO] Discovery Science
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31470
+#EXTINF:-1,[RO] Discovery Turbo Xtra
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31472
+#EXTINF:-1,[RO] E! Entertainment
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31474
+#EXTINF:-1,[RO] Epic Drama
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31475
+#EXTINF:-1,[RO] Eurosport 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31476
+#EXTINF:-1,[RO] Eurosport 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31477
+#EXTINF:-1,[RO] Film Now
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31478
+#EXTINF:-1,[RO] Fine Living
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31480
+#EXTINF:-1,[RO] Happy Channel
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31481
+#EXTINF:-1,[RO] History
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31485
+#EXTINF:-1,[RO] Investigation Discovery
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31486
+#EXTINF:-1,KRD: KOREK TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/31789
+#EXTINF:-1,IT: RAI 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32085
+#EXTINF:-1,IT: RAI 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35411
+#EXTINF:-1,IT: RAI 3 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32087
+#EXTINF:-1,IT: RAI 4 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32098
+#EXTINF:-1,IT: Rai 5
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32099
+#EXTINF:-1,IT: Rete 4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32088
+#EXTINF:-1,Mediaset Italia 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33482
+#EXTINF:-1,IT: Rai News 24
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32101
+#EXTINF:-1,IT: RAI GULP HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32102
+#EXTINF:-1,IT: RAI MOVIE HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32103
+#EXTINF:-1,IT: RAI PREMIUM HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32104
+#EXTINF:-1,IT: Rai Scuola
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32106
+#EXTINF:-1,IT: Mediaset EXTRA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32108
+#EXTINF:-1,IT: Mediaset ITALIA DUE
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32109
+#EXTINF:-1,IT: Canale 8
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32116
+#EXTINF:-1,======SKY Cinema======
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32121
+#EXTINF:-1,IT: SKY CINEMA DUE 24
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32125
+#EXTINF:-1,IT: SKY CINEMA ACTION HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32128
+#EXTINF:-1,======SKY Cultura======
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32138
+#EXTINF:-1,IT: Sky National Geo
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32139
+#EXTINF:-1,IT: Sky NatGeo People
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32141
+#EXTINF:-1,IT: Sky Discovery
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32142
+#EXTINF:-1,IT: Sky Animal Planet
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32143
+#EXTINF:-1,IT: Fashion Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32147
+#EXTINF:-1,======SKY Bambini======
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32151
+#EXTINF:-1,IT: Cartonito
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32154
+#EXTINF:-1,IT: Rai YoYo
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32157
+#EXTINF:-1,====== Premium======
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32159
+#EXTINF:-1,IT: Premium Cinema
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32160
+#EXTINF:-1,IT: Premium Crime HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32161
+#EXTINF:-1,IT: Premium Storie
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32162
+#EXTINF:-1,IT: PREMIUM COMEDY HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32168
+#EXTINF:-1,======SKY PrimaFila======
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32171
+#EXTINF:-1,Primafila 1 Thriller
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32173
+#EXTINF:-1,Prima fila 2 Thriller
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32175
+#EXTINF:-1,Primafila 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32176
+#EXTINF:-1,Primafila 3 Thriller
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32177
+#EXTINF:-1,Primafila 4 thriller
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32179
+#EXTINF:-1,Primafila 5 Thriller
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32181
+#EXTINF:-1,Primafila 6 Thriller
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32183
+#EXTINF:-1,Prima fila 7 Thriller
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32185
+#EXTINF:-1,Primafila 7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32186
+#EXTINF:-1,Primafila 8 Thriller
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32187
+#EXTINF:-1,Primafila 9 Thriller
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32189
+#EXTINF:-1,Primafila 9
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32190
+#EXTINF:-1,Prima fila 10 Thriller
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32191
+#EXTINF:-1,Primafila 10
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32192
+#EXTINF:-1,Primafila 11 Thriller
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32193
+#EXTINF:-1,Primafila 12 Thriller
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32195
+#EXTINF:-1,Primafila 12
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32196
+#EXTINF:-1,Vetrina Film Sala
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32197
+#EXTINF:-1,Trailer Sala 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32198
+#EXTINF:-1,Sala 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32199
+#EXTINF:-1,Trailer Sala 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32200
+#EXTINF:-1,Sala 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32201
+#EXTINF:-1,Trailer Sala 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32202
+#EXTINF:-1,Sala 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32203
+#EXTINF:-1,Trailer Sala 4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32204
+#EXTINF:-1,Sala 4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32205
+#EXTINF:-1,Trailer Sala 5
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32206
+#EXTINF:-1,Sala 5
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32207
+#EXTINF:-1,Trailer Sala 6
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32208
+#EXTINF:-1,Sala 6
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32209
+#EXTINF:-1,Trailer Sala 7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32210
+#EXTINF:-1,Sala 7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32211
+#EXTINF:-1,Trailer Sala 8
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32212
+#EXTINF:-1,Sala 8
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32213
+#EXTINF:-1,Trailer Sala 9
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32214
+#EXTINF:-1,Sala 9
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32215
+#EXTINF:-1,Trailer Sala 10
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32216
+#EXTINF:-1,Sala 10
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32217
+#EXTINF:-1,Trailer Sala 11
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32218
+#EXTINF:-1,Sala 11
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32219
+#EXTINF:-1,Trailer Sala 12
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32220
+#EXTINF:-1,Sala 12
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32221
+#EXTINF:-1,======SKY. Sport======
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32222
+#EXTINF:-1,IT: Sport Italia
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32223
+#EXTINF:-1,IT: SKY SPORT FOOTBALL
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32242
+#EXTINF:-1,BEI: BeinSport_1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32245
+#EXTINF:-1,BEI: BeinSport_2_
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32246
+#EXTINF:-1,BEI: BeinSport_3_
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32247
+#EXTINF:-1,BEI: BeinSport_4_
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32248
+#EXTINF:-1,BEI: BeinSport_5_
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32249
+#EXTINF:-1,BEI: BeinSport_6
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32250
+#EXTINF:-1,BEI: BeinSport_7_
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32251
+#EXTINF:-1,BEI: BeinSport_8
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32252
+#EXTINF:-1,BEI: BeinSport_9_
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/32253
+#EXTINF:-1,BG: AXN (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34915
+#EXTINF:-1,BG: BG Music HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34918
+#EXTINF:-1,BG: BNT 2 HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34920
+#EXTINF:-1,BG: BNT 3 HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34921
+#EXTINF:-1,BG: Box TV (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34923
+#EXTINF:-1,BG: Box TV HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34924
+#EXTINF:-1,BG: BTV (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34925
+#EXTINF:-1,BTV Action HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34927
+#EXTINF:-1,BG: BTV Comedy HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34929
+#EXTINF:-1,BG: BTV Lady HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34931
+#EXTINF:-1,BG: Cartoon Network (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34932
+#EXTINF:-1,BG: Cinema Plus (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34933
+#EXTINF:-1,BG: Cinemax 2 HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34934
+#EXTINF:-1,BG: Diema Family (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34937
+#EXTINF:-1,BG: DocuBox HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34943
+#EXTINF:-1,BG: E-Kids HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34944
+#EXTINF:-1,BG: F PLUS (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34946
+#EXTINF:-1,BG: Fen TV (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34947
+#EXTINF:-1,BG: FilmBox HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34948
+#EXTINF:-1,BG: HBO 2 HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34956
+#EXTINF:-1,BG: HBO 3 HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34957
+#EXTINF:-1,BG: HBO HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34958
+#EXTINF:-1,BG: History Channel HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34959
+#EXTINF:-1,BG: Hobby TV HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34961
+#EXTINF:-1,BG: ID Xtra HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34962
+#EXTINF:-1,BG: Kino Nova HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34964
+#EXTINF:-1,BG: National Geographic HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34969
+#EXTINF:-1,BG: National Geographic Wild HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34970
+#EXTINF:-1,BG: Planeta HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34974
+#EXTINF:-1,BG: Ring Sport (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34975
+#EXTINF:-1,BG: The Voice (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34979
+#EXTINF:-1,BG: TLC Balkan HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34980
+#EXTINF:-1,BG: Travel Channel HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34981
+#EXTINF:-1,BG: TV + HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34982
+#EXTINF:-1,BG: TV 1000
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34983
+#EXTINF:-1,BG: Viasat Explorer HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34985
+#EXTINF:-1,BG: AMC
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34987
+#EXTINF:-1,BG: BABY TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34988
+#EXTINF:-1,BG: BULGARIA 24
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34990
+#EXTINF:-1,BG: BULGARIA ON AIR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34991
+#EXTINF:-1,BG: FASHION TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34992
+#EXTINF:-1,BG: COMEDY PLUS
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34993
+#EXTINF:-1,BG: Eurosport 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/34994
+#EXTINF:-1,BG: Diema Sport 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35001
+#EXTINF:-1,BG: Nova Sport
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35002
+#EXTINF:-1,BG: NOVA TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35007
+#EXTINF:-1,BG: Action Plus
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35008
+#EXTINF:-1,BG: DNES
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35009
+#EXTINF:-1,BG: DSTV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35010
+#EXTINF:-1,BG: Movie Star
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35014
+#EXTINF:-1,BG: Balkanika Music TV HD (L)
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35020
+#EXTINF:-1,Srb: Woman
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35436
+#EXTINF:-1,Srb: Viasat Nature
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35437
+#EXTINF:-1,Srb: Viasat History HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35438
+#EXTINF:-1,Srb: Viasat History
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35439
+#EXTINF:-1,Srb: Viasat Explore
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35440
+#EXTINF:-1,Srb: Tv1000
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35443
+#EXTINF:-1,Srb: Travel Channel
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35444
+#EXTINF:-1,Srb: Tlc
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35445
+#EXTINF:-1,Srb: SyFy
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35446
+#EXTINF:-1,Srb: Studio B
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35447
+#EXTINF:-1,Srb: Sport Klub Special
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35448
+#EXTINF:-1,Srb: Sport Klub HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35449
+#EXTINF:-1,Srb: Sport Klub Golf
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35450
+#EXTINF:-1,Srb: Sport Klub 6
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35451
+#EXTINF:-1,Srb: Sport Klub 5
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35452
+#EXTINF:-1,Srb: Sport Klub 4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35453
+#EXTINF:-1,Srb: Sport Klub 3 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35454
+#EXTINF:-1,Srb: Sport Klub 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35455
+#EXTINF:-1,Srb: Sport Klub 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35456
+#EXTINF:-1,Srb: SOS KANAL
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35457
+#EXTINF:-1,Srb: Simic Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35458
+#EXTINF:-1,Srb: RTV 2 VOJVODINA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35459
+#EXTINF:-1,Srb: Rtv 1 Vojvodina
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35460
+#EXTINF:-1,Srb: Rts HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35461
+#EXTINF:-1,Srb: Rts 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35462
+#EXTINF:-1,Srb: Rtcg Sat
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35464
+#EXTINF:-1,Srb: Prva World
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35465
+#EXTINF:-1,Srb: Prva Plus
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35466
+#EXTINF:-1,Srb: Prva Max
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35467
+#EXTINF:-1,Srb: Prva
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35468
+#EXTINF:-1,Srb: Pink Zabava
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35469
+#EXTINF:-1,Srb: Pink World Cinema
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35470
+#EXTINF:-1,Srb: Pink World
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35471
+#EXTINF:-1,Srb: Pink Westeren
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35472
+#EXTINF:-1,Srb: Pink Thriller
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35473
+#EXTINF:-1,Srb: Pink Super Kids
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35474
+#EXTINF:-1,Srb: Pink Soap
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35476
+#EXTINF:-1,Srb: Pink Serije
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35477
+#EXTINF:-1,Srb: Pink SciFi
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35478
+#EXTINF:-1,Srb: Pink Romance
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35479
+#EXTINF:-1,Srb: Pink Roll
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35480
+#EXTINF:-1,Srb: Pink Reality
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35481
+#EXTINF:-1,Srb: Pink Premium
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35482
+#EXTINF:-1,Srb: Pink Plus
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35483
+#EXTINF:-1,Srb: Pink Pedia
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35484
+#EXTINF:-1,Srb: Pink Music 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35485
+#EXTINF:-1,Srb: Pink Music
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35486
+#EXTINF:-1,Srb: Pink Movies
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35487
+#EXTINF:-1,Srb: Pink LoL
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35488
+#EXTINF:-1,Srb: Pink Kuvar
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35489
+#EXTINF:-1,Srb: Pink Koncert
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35490
+#EXTINF:-1,Srb: Pink Kids
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35491
+#EXTINF:-1,Srb: Pink Horror
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35492
+#EXTINF:-1,Srb: Pink Hits 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35493
+#EXTINF:-1,Srb: Pink Hits
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35494
+#EXTINF:-1,Srb: Pink HAHA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35495
+#EXTINF:-1,Srb: Pink Folk 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35496
+#EXTINF:-1,Srb: Pink Folk
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35497
+#EXTINF:-1,Srb: Pink Film
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35498
+#EXTINF:-1,Srb: Pink Fashion
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35499
+#EXTINF:-1,Srb: Pink Family
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35500
+#EXTINF:-1,Srb: Pink Extra
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35501
+#EXTINF:-1,Srb: Pink Crime & Mysetry
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35502
+#EXTINF:-1,Srb: Pink Comedy
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35503
+#EXTINF:-1,Srb: Pink Classic
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35504
+#EXTINF:-1,Srb: Pink Bravo
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35505
+#EXTINF:-1,Srb: Pink Action
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35506
+#EXTINF:-1,Srb: Pink 3 Info
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35507
+#EXTINF:-1,Srb: RED Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35508
+#EXTINF:-1,Srb: Pink 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35509
+#EXTINF:-1,Srb: PickBox
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35510
+#EXTINF:-1,Srb: RTV Novi Pazar
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35511
+#EXTINF:-1,Srb: Nova S
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35512
+#EXTINF:-1,Srb: Nova Rs
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35513
+#EXTINF:-1,Srb: Nova M
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35514
+#EXTINF:-1,Srb: Ngc Wild HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35515
+#EXTINF:-1,Srb: Ngc HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35516
+#EXTINF:-1,Srb: National Geo Wild
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35517
+#EXTINF:-1,Srb: N1 Info
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35519
+#EXTINF:-1,Srb: Mtv Hits
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35520
+#EXTINF:-1,Srb: Mtv Dance
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35521
+#EXTINF:-1,Srb: Mtv Adria
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35522
+#EXTINF:-1,Srb: Minimax
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35523
+#EXTINF:-1,Srb: Lov i Ribolov
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35524
+#EXTINF:-1,Srb: Life_Holiday
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35525
+#EXTINF:-1,Srb: Kcn 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35526
+#EXTINF:-1,Srb: Idj Muzika 24/7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35527
+#EXTINF:-1,Srb: HISTORY_H2_HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35528
+#EXTINF:-1,Srb: History Channel HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35529
+#EXTINF:-1,Srb: History Channel
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35530
+#EXTINF:-1,Srb: History 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35531
+#EXTINF:-1,Srb: Hbo HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35532
+#EXTINF:-1,Srb: Hbo 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35533
+#EXTINF:-1,Srb: Hbo 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35534
+#EXTINF:-1,Srb: Happy Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35535
+#EXTINF:-1,Srb: Grand Narodna Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35536
+#EXTINF:-1,Srb: Grand 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35537
+#EXTINF:-1,Srb: Fox Movies HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35538
+#EXTINF:-1,Srb: Fox Movies
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35539
+#EXTINF:-1,Srb: Fox Life HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35540
+#EXTINF:-1,Srb: Fox Life
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35541
+#EXTINF:-1,Srb: Fox HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35542
+#EXTINF:-1,Srb: Fox Crime HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35543
+#EXTINF:-1,Srb: Fox Crime
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35544
+#EXTINF:-1,Srb: Fox
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35545
+#EXTINF:-1,Srb: Food Network
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35546
+#EXTINF:-1,Srb: Fine Living
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35547
+#EXTINF:-1,Srb: FilmBoxPlus
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35548
+#EXTINF:-1,Srb: FilmBox Star
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35549
+#EXTINF:-1,Srb: Film Klub
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35550
+#EXTINF:-1,Srb: Arena Fight
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35551
+#EXTINF:-1,Srb: Esp 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35552
+#EXTINF:-1,Srb: Esp 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35553
+#EXTINF:-1,Srb: Enterteiment
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35554
+#EXTINF:-1,Srb: Duga Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35555
+#EXTINF:-1,Srb: Dr. Fit
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35556
+#EXTINF:-1,Srb: Docu Box
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35557
+#EXTINF:-1,Srb: Dm Sat
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35558
+#EXTINF:-1,Srb: Diva
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35559
+#EXTINF:-1,Srb: Disney Channel
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35560
+#EXTINF:-1,Srb: DISCOVERY_DTX
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35561
+#EXTINF:-1,Srb: Discovery Xtra
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35562
+#EXTINF:-1,Srb: Discovery World
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35563
+#EXTINF:-1,Srb: HGTV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35564
+#EXTINF:-1,Srb: Discovery Sc
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35565
+#EXTINF:-1,Srb: Discovery ID
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35566
+#EXTINF:-1,Srb: Discovery Channel
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35567
+#EXTINF:-1,Srb: Comedy Central
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35569
+#EXTINF:-1,Srb: Cinestar TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35570
+#EXTINF:-1,Srb: CineStar Premiere 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35571
+#EXTINF:-1,Srb: CineStar Premiere 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35572
+#EXTINF:-1,Srb: CineStar Action & Thriller
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35573
+#EXTINF:-1,Srb: Cinemax 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35574
+#EXTINF:-1,Srb: Cinemax 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35575
+#EXTINF:-1,Srb: Cinemania
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35576
+#EXTINF:-1,Srb: Cinema 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35577
+#EXTINF:-1,Srb: Cbs Reality
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35578
+#EXTINF:-1,Srb: Cartoon Network
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35579
+#EXTINF:-1,Srb: Boomerang
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35580
+#EXTINF:-1,Srb: Bell Amie
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35581
+#EXTINF:-1,Srb: BBC_EARHT_HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35582
+#EXTINF:-1,Srb: Balkanika
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35583
+#EXTINF:-1,Srb: B92
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35584
+#EXTINF:-1,Srb: Axn Spin
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35585
+#EXTINF:-1,Srb: Axn Adria
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35586
+#EXTINF:-1,Srb: Arena Sport 4 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35587
+#EXTINF:-1,Srb: Arena Sport 3 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35588
+#EXTINF:-1,Srb: Arena Sport 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35589
+#EXTINF:-1,Srb:Bih Arena Sport 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35590
+#EXTINF:-1,Srb: Animal Planet HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35591
+#EXTINF:-1,Srb: Animal Planet
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35592
+#EXTINF:-1,Srb: Amc HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35593
+#EXTINF:-1,Srb: Amc
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35594
+#EXTINF:-1,Srb: 24kitchen HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35595
+#EXTINF:-1,Srb: 24 Kitchen
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/35596
+#EXTINF:-1,EX YU: Hayat HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36181
+#EXTINF:-1,EX YU: Federalna TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36182
+#EXTINF:-1,EX YU: CineStar Premiere 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36183
+#EXTINF:-1,EX YU: CineStar Premiere 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36184
+#EXTINF:-1,EX YU: CineStar Action HR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36185
+#EXTINF:-1,EX YU: Cinemax 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36186
+#EXTINF:-1,EX YU: Cinemax HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36187
+#EXTINF:-1,EX YU: Pink Zabava
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36188
+#EXTINF:-1,EX YU: Pink Movies
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36189
+#EXTINF:-1,EX YU: Pink M
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36190
+#EXTINF:-1,EX YU: Pink Horror
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36191
+#EXTINF:-1,EX YU: Pink Crime & Mystery
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36192
+#EXTINF:-1,EX YU: Lov i Ribolov
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36193
+#EXTINF:-1,EX YU: Hayatovci
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36194
+#EXTINF:-1,EX YU: O Kanal HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36195
+#EXTINF:-1,EX YU: RTL Kockica
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36196
+#EXTINF:-1,EX YU: Pink Folk 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36197
+#EXTINF:-1,EX YU: Happy Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36198
+#EXTINF:-1,EX YU: FOX Movies
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36199
+#EXTINF:-1,EX YU: FOX
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36200
+#EXTINF:-1,EX YU: DM Sat
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36201
+#EXTINF:-1,EX YU: BHT 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36202
+#EXTINF:-1,EX YU: Sport Klub 3 SR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36203
+#EXTINF:-1,EX YU: Sport Klub 2 SR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36204
+#EXTINF:-1,EX YU: Sport Klub 1 HR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36205
+#EXTINF:-1,EX YU: Sport Klub 1 SR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36206
+#EXTINF:-1,EX YU: Sport Klub 2 HR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36207
+#EXTINF:-1,EX YU: Sport Klub 3 HR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36208
+#EXTINF:-1,EX YU: Al Jazzera Balkan
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36209
+#EXTINF:-1,EX YU: Prva Plus
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36210
+#EXTINF:-1,EX YU: HBO 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36211
+#EXTINF:-1,EX YU: HBO 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36212
+#EXTINF:-1,EX YU: Hayat Plus
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36213
+#EXTINF:-1,EX YU: Grand TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36214
+#EXTINF:-1,EX YU: Doma Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36215
+#EXTINF:-1,EX YU: CMC
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36216
+#EXTINF:-1,EX YU: Pink Reality
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36217
+#EXTINF:-1,EX YU: Pink Music
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36219
+#EXTINF:-1,EX YU: Pink Kids
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36220
+#EXTINF:-1,EX YU: Pink Folk
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36221
+#EXTINF:-1,EX YU: Pink Film
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36222
+#EXTINF:-1,EX YU: Pink Extra
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36223
+#EXTINF:-1,EX YU: Pink Comedy
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36224
+#EXTINF:-1,EX YU: N1 HR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36226
+#EXTINF:-1,EX YU: Klasik TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36227
+#EXTINF:-1,EX YU: RTS 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36229
+#EXTINF:-1,EX YU: RTL Living
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36230
+#EXTINF:-1,EX YU: RTL 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36231
+#EXTINF:-1,EX YU: Prva Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36232
+#EXTINF:-1,EX YU: Pink Premium
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36233
+#EXTINF:-1,EX YU: RTL HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36234
+#EXTINF:-1,EX YU: Pink Kuvar
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36235
+#EXTINF:-1,EX YU: Mtv Igman
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36236
+#EXTINF:-1,EX YU: Hayat Music
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36237
+#EXTINF:-1,EX YU: E!
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36238
+#EXTINF:-1,EX YU: Duga TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36239
+#EXTINF:-1,EX YU: Banovina Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36240
+#EXTINF:-1,EX YU: Animal Planet HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36241
+#EXTINF:-1,EX YU: Pink 3 Info
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36242
+#EXTINF:-1,EX YU: BN TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36243
+#EXTINF:-1,EX YU: BN Music
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36244
+#EXTINF:-1,EX YU: Pink 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36245
+#EXTINF:-1,EX YU: Pink HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36246
+#EXTINF:-1,EX YU: OBN
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36247
+#EXTINF:-1,EX YU: Nova S
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36248
+#EXTINF:-1,EX YU: Pink Action
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36249
+#EXTINF:-1,EX YU: Pink World
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36250
+#EXTINF:-1,EX YU: Pink Western
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36251
+#EXTINF:-1,EX YU: Pink Thriller
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36252
+#EXTINF:-1,EX YU: Pink Soap
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36253
+#EXTINF:-1,EX YU: Pink Sci-FI & Fantasy
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36254
+#EXTINF:-1,EX YU: Hayat Folk
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36255
+#EXTINF:-1,EX YU: Hayat
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36256
+#EXTINF:-1,EX YU: FOX Life
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36257
+#EXTINF:-1,EX YU: FOX Crime
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36258
+#EXTINF:-1,EX YU: Face Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36259
+#EXTINF:-1,EX YU: b92
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36260
+#EXTINF:-1,EX YU: Pink Plus
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36261
+#EXTINF:-1,EX YU: HRT 4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36262
+#EXTINF:-1,EX YU: HRT 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36263
+#EXTINF:-1,EX YU: HRT TV2 FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36264
+#EXTINF:-1,EX YU: HRT 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36265
+#EXTINF:-1,EX YU: 24 Kitchen
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36266
+#EXTINF:-1,EX YU: Alfa TV Sarajevo
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36267
+#EXTINF:-1,EX YU: AXN
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36268
+#EXTINF:-1,EX YU: Balkanika HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36269
+#EXTINF:-1,DE: Boomerang
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36270
+#EXTINF:-1,EX YU: City Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36271
+#EXTINF:-1,EX YU: Discovery Channel
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36273
+#EXTINF:-1,EX YU: Eurosport 2 SR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36274
+#EXTINF:-1,EX YU: Fashion TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36275
+#EXTINF:-1,EX YU: FilmBox Extra
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36276
+#EXTINF:-1,EX YU: FilmBox Stars
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36277
+#EXTINF:-1,EX YU: Grand Tv 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36278
+#EXTINF:-1,EX YU: Ha Ha
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36279
+#EXTINF:-1,EX YU: HBO 3 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36280
+#EXTINF:-1,EX YU: History Channel
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36281
+#EXTINF:-1,EX YU: HRT Int.
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36282
+#EXTINF:-1,EX YU: Jugoton TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36283
+#EXTINF:-1,EX YU: Kanal 5 Mk
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36284
+#EXTINF:-1,EX YU: Kanal 6 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36285
+#EXTINF:-1,EX YU: KCN 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36286
+#EXTINF:-1,EX YU: KCN 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36287
+#EXTINF:-1,EX YU: KCN 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36288
+#EXTINF:-1,EX YU: Kino Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36289
+#EXTINF:-1,EX YU: LOL
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36290
+#EXTINF:-1,EX YU: Minimax
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36291
+#EXTINF:-1,EX YU: MRT 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36292
+#EXTINF:-1,EX YU: Nat Geo Wild
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36293
+#EXTINF:-1,EX YU: Nickelodeon
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36295
+#EXTINF:-1,EX YU: Nova TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36296
+#EXTINF:-1,EX YU: Nova BH HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36297
+#EXTINF:-1,EX YU: Novi Pazar
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36298
+#EXTINF:-1,EX YU: Pink
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36299
+#EXTINF:-1,EX YU: Pink Classic
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36300
+#EXTINF:-1,EX YU: Pink Family
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36301
+#EXTINF:-1,EX YU: Pink Hits
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36302
+#EXTINF:-1,EX YU: Pink Hits 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36303
+#EXTINF:-1,EX YU: Pink Music 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36304
+#EXTINF:-1,EX YU: Pink Romance
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36305
+#EXTINF:-1,EX YU: Pink Style
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36306
+#EXTINF:-1,EX YU: Pink World Cinema
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36307
+#EXTINF:-1,EX YU: Planeta tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36308
+#EXTINF:-1,EX YU: POP TV ( SLO )
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36309
+#EXTINF:-1,EX YU: Posavina Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36310
+#EXTINF:-1,EX YU: Prva Max
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36312
+#EXTINF:-1,EX YU: Prva World
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36313
+#EXTINF:-1,EX YU: RTL Crime
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36315
+#EXTINF:-1,EX YU: RTL Passion
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36316
+#EXTINF:-1,EX YU: RTRS
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36317
+#EXTINF:-1,EX YU: RTRS Plus
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36318
+#EXTINF:-1,EX YU: RTS 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36319
+#EXTINF:-1,EX YU: RTS Zivot
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36321
+#EXTINF:-1,EX YU: Sandzak Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36322
+#EXTINF:-1,EX YU: Sehara TV HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36323
+#EXTINF:-1,EX YU: Sitel
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36324
+#EXTINF:-1,EX YU: Sitel HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36325
+#EXTINF:-1,EX YU: RTV Slon
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36328
+#EXTINF:-1,EX YU: SOS
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36329
+#EXTINF:-1,EX YU: Sport Klub 4 SR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36330
+#EXTINF:-1,EX YU: Sportska TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36331
+#EXTINF:-1,EX YU: Studio B
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36332
+#EXTINF:-1,EX YU: Sutel TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36333
+#EXTINF:-1,EX YU: Telma Mk
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36334
+#EXTINF:-1,EX YU: TK
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36335
+#EXTINF:-1,EX YU: TLC
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36336
+#EXTINF:-1,EX YU: TV Sarajevo HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36337
+#EXTINF:-1,EX YU: Mini Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36338
+#EXTINF:-1,EX YU: USK HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36339
+#EXTINF:-1,EX YU: VH1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36340
+#EXTINF:-1,EX YU: Viasat History
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36341
+#EXTINF:-1,EX YU: Viasat Nature
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36342
+#EXTINF:-1,EX YU: Z1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36343
+#EXTINF:-1,EX YU: Arena Sport 1 HR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36344
+#EXTINF:-1,EX YU: Arena Sport 4 HR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36347
+#EXTINF:-1,EX YU: Arena Sport 6 HR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36349
+#EXTINF:-1,EX YU: Arena Sport 7 HR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36350
+#EXTINF:-1,EX YU: Arena Sport 9 HR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36352
+#EXTINF:-1,EX YU: Arena Sport 10 HR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36353
+#EXTINF:-1,EX YU: Arena Sport 3 SR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36356
+#EXTINF:-1,EX YU: Arena Sport 4 SR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36357
+#EXTINF:-1,EX YU: Arena Sport 5 SR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36358
+#EXTINF:-1,EX YU: Sport Klub
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36363
+#EXTINF:-1,EX YU: Sport Klub 5 HR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36365
+#EXTINF:-1,EX YU: Sport Klub 6 HR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36366
+#EXTINF:-1,EX YU: Sport Klub 5 SR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36367
+#EXTINF:-1,EX YU: Sport Klub 6 SR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36368
+#EXTINF:-1,EX YU: Sport Klub 7 SR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36369
+#EXTINF:-1,EX YU: Sport Klub 8 SR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36370
+#EXTINF:-1,EX YU: Sport Klub 9 SR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36371
+#EXTINF:-1,EX YU: Sport Klub Golf
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36373
+#EXTINF:-1,EX YU: Sport TV 1 SLO
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36374
+#EXTINF:-1,EX YU: Sport TV 2 SLO
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36375
+#EXTINF:-1,EX YU: Sport TV 3 SLO
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36376
+#EXTINF:-1,EX YU: Eurosport 1 SR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36377
+#EXTINF:-1,PL: ADVENTURE
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36758
+#EXTINF:-1,PL: ANIMAL PLANET
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36761
+#EXTINF:-1,PL: ATM ROZRYWKA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36762
+#EXTINF:-1,PL: CANAL+ FAMILY
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36771
+#EXTINF:-1,PL: COMEDY CENTRAL FAMILY
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36778
+#EXTINF:-1,PL: COMEDY CENTRAL POLAND
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36779
+#EXTINF:-1,PL: DA VINCI LEARNING
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36781
+#EXTINF:-1,PL: DISCO POLO MUSIC
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36782
+#EXTINF:-1,PL: DISCOVERY TURBO XTRA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36787
+#EXTINF:-1,PL: DISNEY JUNIOR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36789
+#EXTINF:-1,PL: DTX
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36792
+#EXTINF:-1,PL: FILMBOX
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36797
+#EXTINF:-1,PL: FILMBOX PREMIUM
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36802
+#EXTINF:-1,PL: FOKUS TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36803
+#EXTINF:-1,PL: HISTORY
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36810
+#EXTINF:-1,PL: ID
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36811
+#EXTINF:-1,PL: KINO Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36813
+#EXTINF:-1,PL: PLANETE+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36825
+#EXTINF:-1,PL: POLSAT JIM JAM
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36830
+#EXTINF:-1,PL: POLSAT NEWS 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36833
+#EXTINF:-1,PL: POLSAT ROMANS
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36835
+#EXTINF:-1,PL: POWER TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36839
+#EXTINF:-1,PL: TELETOON+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36847
+#EXTINF:-1,PL: TLC
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36848
+#EXTINF:-1,PL: TV OKAZJE
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36851
+#EXTINF:-1,PL: TV TRWAM
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36854
+#EXTINF:-1,PL: TVN 7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36859
+#EXTINF:-1,PL: TVP 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36865
+#EXTINF:-1,PL: TVP 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36866
+#EXTINF:-1,PL: TVP INFO
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36869
+#EXTINF:-1,PL: UNIVERSAL
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36874
+#EXTINF:-1,PL: VIVA POLSKA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36876
+#EXTINF:-1,PL: CANAL+ Dokument HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36879
+#EXTINF:-1,PL: Superstacja
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/36881
+#EXTINF:-1,=== ALBANIA ===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37153
+#EXTINF:-1,Top Channel HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37154
+#EXTINF:-1,Klan TV HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37156
+#EXTINF:-1,Klan TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37157
+#EXTINF:-1,KLAN PLUS HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37158
+#EXTINF:-1,Klan Plus
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37159
+#EXTINF:-1,=== Digitalb Filma===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37163
+#EXTINF:-1,Film Gold HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37164
+#EXTINF:-1,Film Max HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37165
+#EXTINF:-1,Film Hits
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37166
+#EXTINF:-1,Film Aksion
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37167
+#EXTINF:-1,Film Autor
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37168
+#EXTINF:-1,Film Thriller
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37169
+#EXTINF:-1,Film Drame
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37170
+#EXTINF:-1,Film Komedi
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37171
+#EXTINF:-1,Euro Film
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37172
+#EXTINF:-1,T HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37173
+#EXTINF:-1,===Tring Filma===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37174
+#EXTINF:-1,Tring Action
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37175
+#EXTINF:-1,Tring Super
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37176
+#EXTINF:-1,Tring Fantasy
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37177
+#EXTINF:-1,Tring Life
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37178
+#EXTINF:-1,Tring Comedy
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37179
+#EXTINF:-1,Tring Novelas
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37180
+#EXTINF:-1,=====Kosovo Film========
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37182
+#EXTINF:-1,ART Kino 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37183
+#EXTINF:-1,ART Kino 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37184
+#EXTINF:-1,SKY KOMEDI
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37187
+#EXTINF:-1,=== Tematike ===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37188
+#EXTINF:-1,Family HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37189
+#EXTINF:-1,JOLLY HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37191
+#EXTINF:-1,SMILE
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37195
+#EXTINF:-1,Stinet
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37196
+#EXTINF:-1,=====RTSH======
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37197
+#EXTINF:-1,RTSH 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37198
+#EXTINF:-1,RTSH 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37199
+#EXTINF:-1,RTSH 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37200
+#EXTINF:-1,RTSH Film
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37202
+#EXTINF:-1,=== Sportive ===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37204
+#EXTINF:-1,Super Sport 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37207
+#EXTINF:-1,Super Sport 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37208
+#EXTINF:-1,Super Sport 3 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37209
+#EXTINF:-1,Super Sport 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37210
+#EXTINF:-1,Super Sport 4 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37211
+#EXTINF:-1,Super Sport 4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37212
+#EXTINF:-1,Super Sport 5
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37213
+#EXTINF:-1,Tring Sport 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37215
+#EXTINF:-1,TRING SPORT 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37216
+#EXTINF:-1,Tring Sport 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37217
+#EXTINF:-1,TRING SPORT 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37218
+#EXTINF:-1,Tring Sport 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37219
+#EXTINF:-1,Tring Sport 4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37220
+#EXTINF:-1,=== Kosovo Sport ===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37221
+#EXTINF:-1,K Sport 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37222
+#EXTINF:-1,K Sport 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37223
+#EXTINF:-1,K Sport 3 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37224
+#EXTINF:-1,K Sport 4 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37225
+#EXTINF:-1,Art Sport 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37226
+#EXTINF:-1,ART Sport 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37228
+#EXTINF:-1,=== Kulturë===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37229
+#EXTINF:-1,EXP Histori
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37232
+#EXTINF:-1,Tring Planet
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37233
+#EXTINF:-1,Tring World
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37234
+#EXTINF:-1,Tring History
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37235
+#EXTINF:-1,Art Doku 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37236
+#EXTINF:-1,Art Doku 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37237
+#EXTINF:-1,Docu Box HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37238
+#EXTINF:-1,===Fëmijë===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37239
+#EXTINF:-1,Junior TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37240
+#EXTINF:-1,Bang Bang
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37241
+#EXTINF:-1,Tring Tring
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37243
+#EXTINF:-1,Tring Kids
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37244
+#EXTINF:-1,Tip Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37245
+#EXTINF:-1,RTSH Femije
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37247
+#EXTINF:-1,AlbIptv Portokalli 2020
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37248
+#EXTINF:-1,AlbIptv Portokalli Arkiva
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37249
+#EXTINF:-1,Kinema+ Millenium 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37250
+#EXTINF:-1,===Lajme===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37252
+#EXTINF:-1,News 24
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37253
+#EXTINF:-1,Klan News
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37254
+#EXTINF:-1,Top News
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37255
+#EXTINF:-1,ABC News
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37256
+#EXTINF:-1,Info24 TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37257
+#EXTINF:-1,ORA NEWS HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37258
+#EXTINF:-1,RTV Ora
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37259
+#EXTINF:-1,EuroNews
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37260
+#EXTINF:-1,Report TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37261
+#EXTINF:-1,RTSH 24
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37262
+#EXTINF:-1,A2 CNN
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37263
+#EXTINF:-1,Fax news
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37265
+#EXTINF:-1,=== All News ===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37266
+#EXTINF:-1,Aljazeera English
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37267
+#EXTINF:-1,CNN int
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37268
+#EXTINF:-1,euronews English
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37269
+#EXTINF:-1,Sky News
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37270
+#EXTINF:-1,BBC World News
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37271
+#EXTINF:-1,TG24
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37272
+#EXTINF:-1,Newsmax
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37273
+#EXTINF:-1,Rai News 24
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37274
+#EXTINF:-1,France 24 English
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37275
+#EXTINF:-1,DW English
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37276
+#EXTINF:-1,NHK World
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37277
+#EXTINF:-1,Bloomberg TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37278
+#EXTINF:-1,===Gjeneraliste Kosovare===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37279
+#EXTINF:-1,RTK 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37280
+#EXTINF:-1,RTK 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37281
+#EXTINF:-1,RTK 4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37283
+#EXTINF:-1,RTV 21 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37285
+#EXTINF:-1,KTV HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37286
+#EXTINF:-1,Klan Kosova
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37288
+#EXTINF:-1,T7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37289
+#EXTINF:-1,First Channel HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37290
+#EXTINF:-1,RTV Dukagjini
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37291
+#EXTINF:-1,Alsat M
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37292
+#EXTINF:-1,Drita TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37295
+#EXTINF:-1,TV Dielli
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37296
+#EXTINF:-1,RTV Islam
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37297
+#EXTINF:-1,Peace TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37298
+#EXTINF:-1,=== Muzikë===
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37299
+#EXTINF:-1,Folk +
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37301
+#EXTINF:-1,START tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37302
+#EXTINF:-1,City TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37303
+#EXTINF:-1,Sity Shqip
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37304
+#EXTINF:-1,Metal Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37305
+#EXTINF:-1,ES|  MOVISTAR DCINE HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37314
+#EXTINF:-1,ES|  MOVISTAR XTRA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37317
+#EXTINF:-1,ES|  TNT HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37318
+#EXTINF:-1,ES| NOVA HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37320
+#EXTINF:-1,ES| NEOX TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37321
+#EXTINF:-1,ES| FOX HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37323
+#EXTINF:-1,ES| FOX LIFE HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37324
+#EXTINF:-1,ES| MOVISTAR CINE N
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37325
+#EXTINF:-1,ES| MOVISTAR SERIESMANIA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37327
+#EXTINF:-1,ES| AXN HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37331
+#EXTINF:-1,ES| SYFY HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37333
+#EXTINF:-1,ES| COMEDY CENTRAL
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37335
+#EXTINF:-1,ES| COSMO
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37336
+#EXTINF:-1,ES| CANAL+ TOROS
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37338
+#EXTINF:-1,ES| DMAX HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37339
+#EXTINF:-1,ES| SUNDANCE
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37341
+#EXTINF:-1,ES| NATIONAL GEOGRAPHIC HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37342
+#EXTINF:-1,ES| NAT GEO WILD HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37343
+#EXTINF:-1,ES| DISCOVERY MAX
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37345
+#EXTINF:-1,ES| ODISEA HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37346
+#EXTINF:-1,ES| CANAL DECASA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37347
+#EXTINF:-1,ES| A&E HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37348
+#EXTINF:-1,ES| CAZA Y PESCA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37349
+#EXTINF:-1,ES| CRIME & INVESTIGATION
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37350
+#EXTINF:-1,ES| MEGA HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37351
+#EXTINF:-1,ES| HISTORIA HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37352
+#EXTINF:-1,ES| TRECE HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37353
+#EXTINF:-1,ES| DISCOVERY CRİME INVESTİGATİON
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37354
+#EXTINF:-1,ES| TAQUILLA 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37355
+#EXTINF:-1,ES| TAQUILLA 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37356
+#EXTINF:-1,ES| TAQUILLA 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37357
+#EXTINF:-1,ES| TAQUILLA 4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37358
+#EXTINF:-1,ES| TAQUILLA 5
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37359
+#EXTINF:-1,ES| TAQUILLA 6
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37360
+#EXTINF:-1,ES| TAQUILLA 7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37361
+#EXTINF:-1,ES| TAQUILLA 8
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37362
+#EXTINF:-1,ES| TAQUILLA 9
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37363
+#EXTINF:-1,ES| TAQUILLA 10
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37364
+#EXTINF:-1,ES| MOVISTAR ALQUILER 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37365
+#EXTINF:-1,ES| MOVISTAR ALQUILER 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37366
+#EXTINF:-1,ES| MOVISTAR ALQUILER 3 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37367
+#EXTINF:-1,ES| MOVISTAR ALQUILER 4 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37368
+#EXTINF:-1,ES| MOVISTAR ALQUILER 5 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37369
+#EXTINF:-1,ES| MOVISTAR ALQUILER 6 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37370
+#EXTINF:-1,ES| MOVISTAR ALQUILER 7 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37371
+#EXTINF:-1,ES| MOVISTAR ALQUILER 8 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37372
+#EXTINF:-1,ES| MOVISTAR ALQUILER 9 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37373
+#EXTINF:-1,ES| AMC FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37375
+#EXTINF:-1,ES| AXN FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37376
+#EXTINF:-1,ES| CAZA Y PESCA FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37379
+#EXTINF:-1,ES| COSMO FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37381
+#EXTINF:-1,ES| DISNEY CHANNEL FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37383
+#EXTINF:-1,ES| HISTORIA FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37386
+#EXTINF:-1,ES| MOVISTAR DEPORTES FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37393
+#EXTINF:-1,ES| MOVISTAR FORMULA 1 FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37396
+#EXTINF:-1,ES| MOVISTAR GOLF FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37397
+#EXTINF:-1,ES| MOVISTAR SERIESMANIA FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37400
+#EXTINF:-1,ES| MEGA FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37401
+#EXTINF:-1,ES| NICKELODEON FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37403
+#EXTINF:-1,ES| TCM FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37405
+#EXTINF:-1,ES| TELECINCO FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37406
+#EXTINF:-1,ES| TELEDEPORTE FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37407
+#EXTINF:-1,ES| TNT FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37408
+#EXTINF:-1,ES| 7RM FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37410
+#EXTINF:-1,ES| ANTENA 3 FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37411
+#EXTINF:-1,ES| BE MAD FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37415
+#EXTINF:-1,ES| MOVISTAR DCINE FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37416
+#EXTINF:-1,ES| MOVISTAR XTRA FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37418
+#EXTINF:-1,ES| NATIONAL GEO FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37419
+#EXTINF:-1,ES| SYFY FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37420
+#EXTINF:-1,ES| LA 2 FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37421
+#EXTINF:-1,ES| CANAL + FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37422
+#EXTINF:-1,ES| FOX LIFE FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37423
+#EXTINF:-1,ES| LIGA TV FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37425
+#EXTINF:-1,ES| SOMOS FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37428
+#EXTINF:-1,ES| SP NETFLIX ACTION FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37429
+#EXTINF:-1,ES| FOX LIFE FHD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37430
+#EXTINF:-1,ES| LA 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37432
+#EXTINF:-1,ES| COSMO HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37433
+#EXTINF:-1,ES| FDF HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37434
+#EXTINF:-1,ES| LA SEXTA HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37435
+#EXTINF:-1,ES| FOX HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37436
+#EXTINF:-1,ES| SYFY HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37437
+#EXTINF:-1,ES| AXN HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37440
+#EXTINF:-1,ES| NICKELODEON HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37446
+#EXTINF:-1,ES| DISNEY CHANNEL HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37447
+#EXTINF:-1,ES| CARTOON NETWORK HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37449
+#EXTINF:-1,ES| BABY TV HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37450
+#EXTINF:-1,ES| CRIME & INVESTIGATION HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37451
+#EXTINF:-1,ES| NATIONAL GEOGRAPHICS HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37453
+#EXTINF:-1,ES| HISTORIA HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37455
+#EXTINF:-1,ES| BLAZE HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37456
+#EXTINF:-1,ES| COMEDY CENTRAL HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37457
+#EXTINF:-1,ES| MEGA HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37463
+#EXTINF:-1,ES| NOVA HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37464
+#EXTINF:-1,ES| TELECINCO HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37466
+#EXTINF:-1,ES| TNT HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37467
+#EXTINF:-1,ES| CANAL 24 HORAS HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37470
+#EXTINF:-1,ES| CANAL ORBE21 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37471
+#EXTINF:-1,ES| MOVISTAR DCINE HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37473
+#EXTINF:-1,ES| MOVISTAR XTRA HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37474
+#EXTINF:-1,ES| TCM HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37475
+#EXTINF:-1,ES| TELEDEPORTE HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37476
+#EXTINF:-1,ES| TV3 CATALONIA HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37478
+#EXTINF:-1,ES| A&E HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37479
+#EXTINF:-1,ES| BARCA TV HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37480
+#EXTINF:-1,ES| BEIN LIGA 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37481
+#EXTINF:-1,ES| BEIN LIGA 3 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37482
+#EXTINF:-1,ES| BEIN SPORTS SPAIN HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37483
+#EXTINF:-1,ES| BOING HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37484
+#EXTINF:-1,ES| CANAL 26 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37485
+#EXTINF:-1,ES| CANAL DELCASA HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37486
+#EXTINF:-1,ES| CANAL+ COCINA HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37488
+#EXTINF:-1,ES| CANAL+ TOROS HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37489
+#EXTINF:-1,ES| DIVINITY HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37490
+#EXTINF:-1,ES| DMAX HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37491
+#EXTINF:-1,ES| ESPN HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37492
+#EXTINF:-1,ES| LA LIGA TV BAR HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37493
+#EXTINF:-1,ES| MOVISTAR ALQUILER 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37495
+#EXTINF:-1,ES| MOVISTAR ALQUILER 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37496
+#EXTINF:-1,ES| MOVISTAR ALQUILER 3 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37497
+#EXTINF:-1,ES| MOVISTAR ALQUILER 4 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37498
+#EXTINF:-1,ES| MOVISTAR ALQUILER 5 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37499
+#EXTINF:-1,ES| MOVISTAR ALQUILER 6 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37500
+#EXTINF:-1,ES| MOVISTAR ALQUILER 7 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37501
+#EXTINF:-1,ES| MOVISTAR ALQUILER 8 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37502
+#EXTINF:-1,ES| MOVISTAR ALQUILER 9 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37503
+#EXTINF:-1,ES| MOVISTAR CINE N HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37504
+#EXTINF:-1,ES| MOVISTAR CINEDOC&ROLL HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37505
+#EXTINF:-1,ES| MOVISTAR GOLF HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37507
+#EXTINF:-1,ES| MOVISTAR LIGA CAMPEONES HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37508
+#EXTINF:-1,ES| MOVISTAR MOTO GP HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37509
+#EXTINF:-1,ES| MOVISTAR SERIESMANIA HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37511
+#EXTINF:-1,ES| MTV ESPANA HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37512
+#EXTINF:-1,ES| NEOX TV HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37513
+#EXTINF:-1,ES| SUNDANCE HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37514
+#EXTINF:-1,ES| TRECE HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37515
+#EXTINF:-1,ES| 13 TV HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37516
+#EXTINF:-1,ES| CANAL COSTA HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37517
+#EXTINF:-1,ES| DKISS HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37518
+#EXTINF:-1,ES| TEN HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37519
+#EXTINF:-1,ES| FOX NEWS HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37520
+#EXTINF:-1,ES| ODISEA HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37521
+#EXTINF:-1,ES| MOVISTAR DISNEY HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37522
+#EXTINF:-1,ES| SOMOS HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37523
+#EXTINF:-1,ES| A3 SERIES HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37524
+#EXTINF:-1,ES| FOX NEWS CHANNEL HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37525
+#EXTINF:-1,ES| HOLA TV HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37526
+#EXTINF:-1,ES| NON STOP PEOPLE HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37527
+#EXTINF:-1,ES| TVE INTERNACIONAL HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37528
+#EXTINF:-1,ES| BE MAD HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37529
+#EXTINF:-1,ES| XTRM HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37531
+#EXTINF:-1,ES| M. DEPORTE 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37532
+#EXTINF:-1,ES| DARK HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37533
+#EXTINF:-1,ES| LIGA DE CAMPEONES 8 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37535
+#EXTINF:-1,ES| LIGA DE CAMPEONES 7 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37537
+#EXTINF:-1,ES| CRIMEN  INVESTIGACION HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37539
+#EXTINF:-1,ES| PANDA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37540
+#EXTINF:-1,ES| TAQUILLA 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37541
+#EXTINF:-1,ES| TAQUILLA 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37542
+#EXTINF:-1,ES| TAQUILLA 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37543
+#EXTINF:-1,ES| TAQUILLA 4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37544
+#EXTINF:-1,ES| TAQUILLA 5
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37545
+#EXTINF:-1,ES| NICK_JR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37547
+#EXTINF:-1,ES| FOX LIFE
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37548
+#EXTINF:-1,ES| TAQUILLA 7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37549
+#EXTINF:-1,ES| CINE+ SERIES XTRA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37550
+#EXTINF:-1,ES| DAZN
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37551
+#EXTINF:-1,ES| CLASSICA
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37552
+#EXTINF:-1,ES| CANAL SUR A.
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37553
+#EXTINF:-1,BG: B Tv HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37563
+#EXTINF:-1,BG: B Tv Cinema
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37564
+#EXTINF:-1,BG: B Tv Action HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37565
+#EXTINF:-1,BG: B Tv Lady HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37566
+#EXTINF:-1,BG: B Tv Comedy 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37567
+#EXTINF:-1,BG: Diema Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37568
+#EXTINF:-1,BG: Diema Family HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37569
+#EXTINF:-1,BG: Diema Sport 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37572
+#EXTINF:-1,BG: Cinemax HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37573
+#EXTINF:-1,BG: Cinemax 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37574
+#EXTINF:-1,BG: FilmBox HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37576
+#EXTINF:-1,BG: FilmBox Extra HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37577
+#EXTINF:-1,BG: Fox HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37578
+#EXTINF:-1,BG: Fox Crime HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37579
+#EXTINF:-1,BG: Fox Life HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37580
+#EXTINF:-1,BG: Hbo HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37581
+#EXTINF:-1,BG: Hbo +1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37582
+#EXTINF:-1,BG: Hbo 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37583
+#EXTINF:-1,BG: Hbo 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37584
+#EXTINF:-1,BG: Hbo 3 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37585
+#EXTINF:-1,BG: Kino Nova HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37586
+#EXTINF:-1,BG: Movie Star HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37587
+#EXTINF:-1,BG: Axn
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37588
+#EXTINF:-1,BG: Axn Black
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37589
+#EXTINF:-1,BG: Axn White
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37590
+#EXTINF:-1,BG: Tv 1000
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37591
+#EXTINF:-1,BG: Planeta Folk
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37592
+#EXTINF:-1,BG: The Voice TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37593
+#EXTINF:-1,BG: City TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37594
+#EXTINF:-1,BG: Fen Folk
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37595
+#EXTINF:-1,BG: Fen TV HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37596
+#EXTINF:-1,BG: Balkanika Music HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37597
+#EXTINF:-1,BG: Bg Music HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37598
+#EXTINF:-1,BG: Evrokom
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37599
+#EXTINF:-1,BG: Nova Sport HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37600
+#EXTINF:-1,BG: MAX Sport 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37601
+#EXTINF:-1,BG: Max Sport 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37602
+#EXTINF:-1,BG: Max Sports 2 HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37603
+#EXTINF:-1,BG: MAX Sport 3 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37604
+#EXTINF:-1,BG: MAX Sport 4 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37605
+#EXTINF:-1,BG: Ring HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37606
+#EXTINF:-1,BG: Sport Plus HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37607
+#EXTINF:-1,BG: Sportal HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37608
+#EXTINF:-1,BG: Eurosport 1 HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37609
+#EXTINF:-1,BG: Eurosport 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37610
+#EXTINF:-1,BG: World Fight Channel HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37611
+#EXTINF:-1,BG: Bnt 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37612
+#EXTINF:-1,BG: Bnt 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37613
+#EXTINF:-1,BG: Bnt 3 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37614
+#EXTINF:-1,BG: Bnt World
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37615
+#EXTINF:-1,BG: Nat Geo HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37616
+#EXTINF:-1,BG: Nat Geo Wild HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37617
+#EXTINF:-1,BG: Animal Planet HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37618
+#EXTINF:-1,BG: History Channel HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37619
+#EXTINF:-1,BG: Discovery Channel HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37620
+#EXTINF:-1,BG: ID Investigation Discovery HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37621
+#EXTINF:-1,BG: DocuBox HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37622
+#EXTINF:-1,BG: Viasat Explore East
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37623
+#EXTINF:-1,BG: Tlc Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37624
+#EXTINF:-1,BG: Viasat History
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37625
+#EXTINF:-1,BG: Travel Channel HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37626
+#EXTINF:-1,BG: Planeta HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37627
+#EXTINF:-1,BG: Auto Motor Sport HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37628
+#EXTINF:-1,BG: Cartoon Network
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37629
+#EXTINF:-1,BG: Disney Channel
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37630
+#EXTINF:-1,BG: Disney Junior
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37631
+#EXTINF:-1,BG: Duck TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37632
+#EXTINF:-1,BG: E Kids
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37633
+#EXTINF:-1,BG: Nick Junior
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37634
+#EXTINF:-1,BG: 24 Kitchen HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37635
+#EXTINF:-1,BG: 7/8 Tv HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37636
+#EXTINF:-1,BG: Balkanika HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37637
+#EXTINF:-1,BG: Folklor TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37638
+#EXTINF:-1,BG: Hobby TV HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37639
+#EXTINF:-1,BG: Kanal 3 HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37640
+#EXTINF:-1,BG: Skat TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37641
+#EXTINF:-1,BG: Tiankov Folk HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37642
+#EXTINF:-1,BG: Tiankov Orient Folk HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37643
+#EXTINF:-1,BG: Bulgaria 24 HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37644
+#EXTINF:-1,BG: Bulgaria On Air
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37645
+#EXTINF:-1,BG: Epic Drama HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37646
+#EXTINF:-1,BG: Hobby HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37647
+#EXTINF:-1,BG: Vtk
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37648
+#EXTINF:-1,BG: Box Tv
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37649
+#EXTINF:-1,BG: Fashion Box TV HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37650
+#EXTINF:-1,BG: Tv+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37651
+#EXTINF:-1,BG: Welness TV HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37652
+#EXTINF:-1,BG: Eurosport
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37653
+#EXTINF:-1,TR:ANKARA FM
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6432
+#EXTINF:-1,KRAL FM
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6431
+#EXTINF:-1,TURK-BABA RADYO
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/6430
+#EXTINF:-1,|PL| TVP 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37669
+#EXTINF:-1,|PL| TVP Info 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37670
+#EXTINF:-1,|PL| TVP 1 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37671
+#EXTINF:-1,|PL| TVP 2 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37672
+#EXTINF:-1,|PL| TVP 3 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37673
+#EXTINF:-1,|PL| TV 4 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37674
+#EXTINF:-1,|PL| TV 6 HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37675
+#EXTINF:-1,|PL| TVN 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37676
+#EXTINF:-1,|PL| TVN 7 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37677
+#EXTINF:-1,|PL| TVN 24 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37678
+#EXTINF:-1,PL| TVN 24 Bis
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37679
+#EXTINF:-1,|PL| SciFi Universal
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37680
+#EXTINF:-1,|PL| BBC First 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37681
+#EXTINF:-1,|PL| Polsat Rodzina HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37682
+#EXTINF:-1,|PL| TVP Polonia
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37683
+#EXTINF:-1,|PL| TVP Seriale
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37684
+#EXTINF:-1,|PL| TVP Rozrywka
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37685
+#EXTINF:-1,|PL| E! Entertainment
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37686
+#EXTINF:-1,|PL| Food Network HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37687
+#EXTINF:-1,|PL| Polsat 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37688
+#EXTINF:-1,|PL| Polsat 2 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37689
+#EXTINF:-1,|PL| TLC HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37690
+#EXTINF:-1,|PL| Fox 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37691
+#EXTINF:-1,|PL| TVS
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37692
+#EXTINF:-1,|PL| DTX
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37693
+#EXTINF:-1,|PL| NOWA HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37694
+#EXTINF:-1,|PL| ROMANCE TV 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37695
+#EXTINF:-1,|PL| Lifetime HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37697
+#EXTINF:-1,|PL| Domo+ HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37698
+#EXTINF:-1,|PL| Da Vinci
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37699
+#EXTINF:-1,|PL| ATM Rozrywka TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37700
+#EXTINF:-1,|PL| Active Family
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37701
+#EXTINF:-1,|PL| 13 Ulica HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37702
+#EXTINF:-1,|PL| Zoom TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37703
+#EXTINF:-1,|PL| wPolsce.pl
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37704
+#EXTINF:-1,|PL| STARS.TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37705
+#EXTINF:-1,|PL| Red Carpet TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37706
+#EXTINF:-1,|PL| Polo TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37707
+#EXTINF:-1,|PL| Planete+ HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37708
+#EXTINF:-1,|PL| Comedy Central 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37709
+#EXTINF:-1,|PL| Fox Comedy 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37710
+#EXTINF:-1,|PL| Polsat Cafe 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37711
+#EXTINF:-1,|PL| Polsat Play 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37712
+#EXTINF:-1,|PL| Polsat Viasat Nature HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37713
+#EXTINF:-1,|PL| Polsat Viasat Explore HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37714
+#EXTINF:-1,|PL| Super Polsat 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37715
+#EXTINF:-1,|PL| TV Puls 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37716
+#EXTINF:-1,|PL| Puls 2 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37717
+#EXTINF:-1,|PL| TVN Fabula 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37718
+#EXTINF:-1,|PL| TVN Style 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37719
+#EXTINF:-1,|PL| TTV 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37720
+#EXTINF:-1,|PL| CBS Reality 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37721
+#EXTINF:-1,|PL| CBS Europa HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37722
+#EXTINF:-1,|PL| Polsat News 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37723
+#EXTINF:-1,|PL| Polsat News 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37724
+#EXTINF:-1,|PL| Polsat Doku HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37725
+#EXTINF:-1,|PL| Metro HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37726
+#EXTINF:-1,|PL| BBC Earth 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37727
+#EXTINF:-1,|PL| Travel Channel HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37728
+#EXTINF:-1,|PL| TV Republika
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37729
+#EXTINF:-1,|PL| Eska TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37730
+#EXTINF:-1,|PL| Eska TV Extra
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37731
+#EXTINF:-1,|PL| FOKUS TV HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37732
+#EXTINF:-1,|PL| teleTOON HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37733
+#EXTINF:-1,|PL| Cartoon Network 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37734
+#EXTINF:-1,|PL| Disney XD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37735
+#EXTINF:-1,|PL| Topkids 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37736
+#EXTINF:-1,|PL| Kuchnia+ 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37737
+#EXTINF:-1,|PL| MiniMini+ 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37738
+#EXTINF:-1,|PL| Baby TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37739
+#EXTINF:-1,|PL| Nickelodeon
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37740
+#EXTINF:-1,|PL| Nick JR
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37741
+#EXTINF:-1,|PL| Nicktoons
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37742
+#EXTINF:-1,|PL| Boomerang
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37743
+#EXTINF:-1,|PL| Disney Channel
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37744
+#EXTINF:-1,|PL| Disney Junior
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37745
+#EXTINF:-1,|PL| Polsat JimJam
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37746
+#EXTINF:-1,|PL| TVP ABC
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37747
+#EXTINF:-1,|PL| Power TV 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37748
+#EXTINF:-1,|PL| MTV Polska HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37749
+#EXTINF:-1,|PL| VH1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37750
+#EXTINF:-1,|PL| Eska Rock TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37751
+#EXTINF:-1,|PL| SCI FI HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37752
+#EXTINF:-1,|PL| Polsat Music HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37753
+#EXTINF:-1,|PL| Music VOX
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37754
+#EXTINF:-1,|PL| Kino Polska Muzyka
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37755
+#EXTINF:-1,|PL| Disco Polo Music
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37756
+#EXTINF:-1,|PL| 4Fun TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37757
+#EXTINF:-1,|PL| 4Fun Gold Hits
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37758
+#EXTINF:-1,|PL| 4Fun Dance
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37759
+#EXTINF:-1,|PL| Sundance TV HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37760
+#EXTINF:-1,|PL| TNT HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37761
+#EXTINF:-1,|PL| Discovery 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37762
+#EXTINF:-1,|PL| Discovery Turbo Xtra 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37763
+#EXTINF:-1,|PL| Discovery Historia
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37764
+#EXTINF:-1,|PL| Discovery Life 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37765
+#EXTINF:-1,|PL| History 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37766
+#EXTINF:-1,|PL| Discovery Science 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37767
+#EXTINF:-1,|PL| National Geographic 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37768
+#EXTINF:-1,|PL| Polsat Viasat History 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37769
+#EXTINF:-1,|PL| Adventure 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37770
+#EXTINF:-1,|PL| ID TV 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37771
+#EXTINF:-1,|PL| HGTV 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37772
+#EXTINF:-1,|PL| TVN Turbo 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37773
+#EXTINF:-1,|PL| TVP Kultura
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37774
+#EXTINF:-1,|PL| TVP Historia
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37775
+#EXTINF:-1,|PL| Investigation Discovery HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37776
+#EXTINF:-1,|PL| Animal Planet 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37777
+#EXTINF:-1,|PL| Nat Geo Wild 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37778
+#EXTINF:-1,|PL| nSport+ 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37779
+#EXTINF:-1,|PL| Canal+ Sport 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37780
+#EXTINF:-1,|PL| Canal+ Sport 2 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37781
+#EXTINF:-1,|PL| CANAL SPORT 3 HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37782
+#EXTINF:-1,|PL| Canal+ Sport 4 HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37783
+#EXTINF:-1,|PL| SPORTKLUB HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37784
+#EXTINF:-1,|PL| Polsat Sport News HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37785
+#EXTINF:-1,|PL| Golf Channel HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37786
+#EXTINF:-1,|PL| Fightbox HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37787
+#EXTINF:-1,|PL| Extreme Sports HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37788
+#EXTINF:-1,|PL| Polsat Sport Premium 1 HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37789
+#EXTINF:-1,|PL| Polsat Sport Premium 2 HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37790
+#EXTINF:-1,|PL| Polsat Sport Premium PPV 4 HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37791
+#EXTINF:-1,|PL| Eurosport 1 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37792
+#EXTINF:-1,|PL| EuroSport 2 HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37793
+#EXTINF:-1,|PL| Polsat Sport Extra 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37794
+#EXTINF:-1,|PL| Polsat Sport Fight 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37795
+#EXTINF:-1,|PL| Polsat Sport 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37796
+#EXTINF:-1,|PL| TVP Sport 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37797
+#EXTINF:-1,|PL| Eleven Sports 1 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37798
+#EXTINF:-1,|PL| Eleven Sports 2 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37799
+#EXTINF:-1,|PL| Eleven Sports 3 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37800
+#EXTINF:-1,|PL| Eleven Sports 4 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37801
+#EXTINF:-1,|PL| Fight Klub 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37802
+#EXTINF:-1,|PL| AMC
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37803
+#EXTINF:-1,|PL| Polsat Film 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37804
+#EXTINF:-1,|PL| HBO 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37805
+#EXTINF:-1,|PL| HBO 2 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37806
+#EXTINF:-1,|PL| HBO 3 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37807
+#EXTINF:-1,|PL| Cinemax 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37808
+#EXTINF:-1,|PL| Cinemax 2 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37809
+#EXTINF:-1,|PL| Filmbox Family
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37810
+#EXTINF:-1,|PL| Filmbox Premium 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37811
+#EXTINF:-1,|PL| Filmbox Arthouse
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37812
+#EXTINF:-1,|PL| Filmbox Action
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37813
+#EXTINF:-1,|PL| Filmbox Extra 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37814
+#EXTINF:-1,|PL| Canal+ 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37815
+#EXTINF:-1,|PL| Canal+ Family 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37816
+#EXTINF:-1,|PL| Canal+ Film 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37817
+#EXTINF:-1,|PL| Canal+ Seriale 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37818
+#EXTINF:-1,|PL| Epic Drama HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37819
+#EXTINF:-1,|PL| AXN 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37820
+#EXTINF:-1,|PL| AXN Spin HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37821
+#EXTINF:-1,|PL| AXN White
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37822
+#EXTINF:-1,|PL| AXN Black
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37823
+#EXTINF:-1,|PL| Paramount Channel HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37824
+#EXTINF:-1,|PL| Ale Kino 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37825
+#EXTINF:-1,|PL| Kino TV 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37826
+#EXTINF:-1,|PL| Kino Polska
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37827
+#EXTINF:-1,|PL| TO TV 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37828
+#EXTINF:-1,|PL| Nuta TV 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37829
+#EXTINF:-1,|PL| CBS Action
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/37830
+#EXTINF:-1,|TR| FilmBoX ᴴᴰ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38341
+#EXTINF:-1,|TR| Fox Crime ғнᴅ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38342
+#EXTINF:-1,|TR| Moviesmart Turk ғнᴅ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38343
+#EXTINF:-1,|TR| Moviesmart Premium ғнᴅ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38344
+#EXTINF:-1,|TR| Moviesmart Classic ғнᴅ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38345
+#EXTINF:-1,|TR| Dizi Smart Premium ғнᴅ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38346
+#EXTINF:-1,|TR| Dizi Smart MAX ғнᴅ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38347
+#EXTINF:-1,|TR| Sinema TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38348
+#EXTINF:-1,|TR| Sinema TV 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38349
+#EXTINF:-1,|TR| Sinema TV Aile ғнᴅ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38350
+#EXTINF:-1,|TR| Sinema TV Aile 2 ғнᴅ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38351
+#EXTINF:-1,|TR| Sinema TV Komedi ғнᴅ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38352
+#EXTINF:-1,|TR| Sinema TV Aksiyon ғнᴅ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38353
+#EXTINF:-1,|TR| Sinema TV 1001
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38354
+#EXTINF:-1,|TR| Sinema TV 1002 ғнᴅ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38355
+#EXTINF:-1,|TR| TigerBox Kemal Sunal 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38356
+#EXTINF:-1,|TR| TigerBox Kemal Sunal 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38357
+#EXTINF:-1,|TR| TigerBox Kemal Sunal 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38358
+#EXTINF:-1,|TR| TigerBox Hababam Sinifi
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38359
+#EXTINF:-1,|TR| TigerBox Yesilcam 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38360
+#EXTINF:-1,|TR| TigerBox Yesilcam 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38361
+#EXTINF:-1,|TR| TigerBox Cem Yilmaz
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38362
+#EXTINF:-1,|TR| TigerBox Sener Sen
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38363
+#EXTINF:-1,|TR| TigerBox Cuneyt Arkin 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38364
+#EXTINF:-1,|TR| TigerBox Cuneyt Arkin 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38365
+#EXTINF:-1,|TR| TigerBox Tarkan
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38366
+#EXTINF:-1,|TR| TigerBox Yilmaz Guney
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38367
+#EXTINF:-1,|TR| TigerBox Turkan Soray
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38368
+#EXTINF:-1,|TR| TigerBox Kadir Inanir
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38369
+#EXTINF:-1,|TR| TigerBox HZ. Yusuf
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38370
+#EXTINF:-1,|TR| TigerBox Hz.Omer
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38371
+#EXTINF:-1,|TR| TigerBox Yunus Emre
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38372
+#EXTINF:-1,|TR| TigerBox Cagri
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38373
+#EXTINF:-1,|TR| TigerBox Evliya
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38374
+#EXTINF:-1,|TR| TigerBox Yerli 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38375
+#EXTINF:-1,|TR| TigerBox Yerli 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38376
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38377
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38378
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38379
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38380
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 5
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38381
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 6
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38382
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38383
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 8
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38384
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 9
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38385
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 10
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38386
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 11
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38387
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 12
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38388
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 13
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38389
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 14
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38390
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 15
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38391
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 16
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38392
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 17
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38393
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 18
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38394
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 19
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38395
+#EXTINF:-1,|TR| TigerBox Yerli Sinema 20
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38396
+#EXTINF:-1,Black Warrant 2023 |TR|
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38397
+#EXTINF:-1,|TR| TigerBox Dublaj 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38398
+#EXTINF:-1,|TR| TigerBox Dublaj 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38399
+#EXTINF:-1,|TR| TigerBox Dublaj 3
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38400
+#EXTINF:-1,|TR| TigerBox Dublaj 4
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38401
+#EXTINF:-1,|TR| TigerBox Dublaj 5
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38402
+#EXTINF:-1,|TR| TigerBox Dublaj 6
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38403
+#EXTINF:-1,|TR| TigerBox Dublaj 7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38404
+#EXTINF:-1,|TR| TigerBox Dublaj 8
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38405
+#EXTINF:-1,|TR| TigerBox Dublaj 9
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38406
+#EXTINF:-1,|TR| TigerBox Dublaj 10
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38407
+#EXTINF:-1,|TR| TigerBox Marvel 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38408
+#EXTINF:-1,|TR| TigerBox Marvel 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38409
+#EXTINF:-1,|TR| TigerBox Superman
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38410
+#EXTINF:-1,|TR| TigerBox John Wick
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38411
+#EXTINF:-1,|TR| TigerBox The Hangover
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38412
+#EXTINF:-1,|TR| TigerBox X-Men
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38413
+#EXTINF:-1,|TR| TigerBox Jonny Depp
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38414
+#EXTINF:-1,|TR| TigerBox Fast & Furious
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38415
+#EXTINF:-1,|TR| TigerBox Predator
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38416
+#EXTINF:-1,|TR| TigerBox Final Destination
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38417
+#EXTINF:-1,|TR| TigerBox Harry Potter
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38418
+#EXTINF:-1,|TR| TigerBox Yuzuklerin Efendisi
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38419
+#EXTINF:-1,|TR| TigerBox Mumya
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38420
+#EXTINF:-1,|TR| TigerBox Jackie Chan 1
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38421
+#EXTINF:-1,|TR| TigerBox Jackie Chan 2
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38422
+#EXTINF:-1,|TR| TigerBox Horror
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38423
+#EXTINF:-1,|TR| TigerBox Chucky
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38424
+#EXTINF:-1,[NL] [8K] NPO 1 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38534
+#EXTINF:-1,[NL] [8K] NPO 2 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38535
+#EXTINF:-1,[NL] [8K] NPO 3 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38536
+#EXTINF:-1,[NL] [8K] RTL 4 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38537
+#EXTINF:-1,[NL] [8K] RTL 5 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38538
+#EXTINF:-1,[NL] [8K] NET 5 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38539
+#EXTINF:-1,[NL] [8K] SBS 6 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38540
+#EXTINF:-1,[NL] [8K] RTL 7 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38541
+#EXTINF:-1,[NL] [8K] RTL 8 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38542
+#EXTINF:-1,[NL] [8K] SBS 9 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38543
+#EXTINF:-1,[NL] [8K] VERONICA HD / DISNEY XD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38544
+#EXTINF:-1,[NL] [8K] RTL Z HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38545
+#EXTINF:-1,[NL] [8K] NPO 1 Extra HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38546
+#EXTINF:-1,[NL] [8K] NPO 2 Extra HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38547
+#EXTINF:-1,[NL] [8K] NPO Politiek en Nieuws HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38548
+#EXTINF:-1,•✧✧•-NEDERLAND 4K-•✧✧•
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38549
+#EXTINF:-1,[NL] [4K] NPO 1 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38550
+#EXTINF:-1,[NL] [4K] NPO 2 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38551
+#EXTINF:-1,[NL] [4K] NPO 3 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38552
+#EXTINF:-1,[NL] [4K] RTL 4 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38553
+#EXTINF:-1,[NL] [4K] RTL 5 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38554
+#EXTINF:-1,[NL] [4K] SBS 6 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38555
+#EXTINF:-1,[NL] [4K] RTL 7 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38556
+#EXTINF:-1,[NL] [4K] RTL 8 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38557
+#EXTINF:-1,[NL] [4K] SBS 9 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38558
+#EXTINF:-1,[NL] [4K] NET 5 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38559
+#EXTINF:-1,[NL] [4K] NET 5 HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38560
+#EXTINF:-1,[NL] [4K] VERONICA HD / DISNEY XD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38561
+#EXTINF:-1,[NL] [4K] FOX HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38562
+#EXTINF:-1,•✧✧•-NEDERLAND HD-•✧✧•
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38563
+#EXTINF:-1,[NL] [HD] NPO 1 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38564
+#EXTINF:-1,[NL] [HD] NPO 2 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38565
+#EXTINF:-1,[NL] [HD] NPO 3 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38566
+#EXTINF:-1,[NL] [HD] RTL 4 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38567
+#EXTINF:-1,[NL] [HD] RTL 5 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38568
+#EXTINF:-1,[NL] [HD] SBS 6 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38569
+#EXTINF:-1,[NL] [HD] RTL 7 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38570
+#EXTINF:-1,[NL] [HD] RTL 8 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38571
+#EXTINF:-1,[NL] [HD] NET 5 HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38572
+#EXTINF:-1,[NL] [HD] VERONICA HD / DISNEY XD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38573
+#EXTINF:-1,[NL] [HD] NPO EXTRA 1 ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38574
+#EXTINF:-1,[NL] [HD] NPO POLITIEK & NIEUWS ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38575
+#EXTINF:-1,[NL] [HD] RTL Z HD ◉
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38576
+#EXTINF:-1,|NL| Disney Channel ᴴᴰ⁺
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38577
+#EXTINF:-1,|NL| Nickelodeon ᴴᴰ⁺
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38578
+#EXTINF:-1,|NL| Cartoon Network ᴴᴰ⁺
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38579
+#EXTINF:-1,|NL| Nick JR ᴴᴰ⁺
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38580
+#EXTINF:-1,|NL| Nicktoons ᴴᴰ⁺
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38581
+#EXTINF:-1,|NL| Boomerang ᴴᴰ⁺
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38582
+#EXTINF:-1,|NL| RTL Telekids ᴴᴰ⁺
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38583
+#EXTINF:-1,|NL| NPO Zappelin Xtra/Humor TV ᴴᴰ⁺
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38584
+#EXTINF:-1,|NL| Baby TV ᴴᴰ⁺
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38585
+#EXTINF:-1,|NL| Duck TV ᴴᴰ⁺
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38586
+#EXTINF:-1,|NL| Pebble TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38587
+#EXTINF:-1,Boes 24/7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38588
+#EXTINF:-1,Dommel 24/7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38589
+#EXTINF:-1,Bassie & Adriaan op Reis Door Europa 24/7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38590
+#EXTINF:-1,Bassie & Adriaan Reis Door Amerika 24/7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38591
+#EXTINF:-1,Bassie en Adriaan 24/7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38592
+#EXTINF:-1,Peppa pig 24/7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38593
+#EXTINF:-1,RTL TELEKIDS ! 24/7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38594
+#EXTINF:-1,NL Tom en Jerry 24/7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38595
+#EXTINF:-1,NL Seabert 24/7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38596
+#EXTINF:-1,NL SpongeBob SquarePants 24/7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38597
+#EXTINF:-1,NL Pokemon - Zon & Maan 24/7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38598
+#EXTINF:-1,NL Pokemon - Zon & Maan - Ultra Legendes 24/7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38599
+#EXTINF:-1,NL Pokemon - Meester Reizen 24/7
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38600
+#EXTINF:-1,•✧ᴴᴰ✧•-NL FILMS-•✧ᴴᴰ✧•
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38601
+#EXTINF:-1,|NL| Film1 Premiere 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38602
+#EXTINF:-1,|NL| Film1 Action 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38603
+#EXTINF:-1,|NL| Film1 Family 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38604
+#EXTINF:-1,|NL| Film1 Drama 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38605
+#EXTINF:-1,|NL| FilmBox
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38606
+#EXTINF:-1,|NL| Discovery 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38607
+#EXTINF:-1,|NL| Animal Planet 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38608
+#EXTINF:-1,|NL| National Geographic Channel 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38609
+#EXTINF:-1,|NL| Nat Geo Wild 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38610
+#EXTINF:-1,|NL| History 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38611
+#EXTINF:-1,|NL| 24Kitchen 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38612
+#EXTINF:-1,|NL| TLC 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38613
+#EXTINF:-1,|NL| E! 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38614
+#EXTINF:-1,|NL| Comedy Central 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38615
+#EXTINF:-1,|NL| Fashion TV 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38616
+#EXTINF:-1,|NL| Spike ᴴ²⁵⁶ ᴴᵉᵛᶜ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38617
+#EXTINF:-1,|NL| Discovery ID 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38618
+#EXTINF:-1,|NL| Discovery Science 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38619
+#EXTINF:-1,|NL| Comedy Central Extra
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38620
+#EXTINF:-1,|NL| RTL Lounge ᴴ²⁵⁶ ᴴᵉᵛᶜ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38621
+#EXTINF:-1,|NL| RTL Crime 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38622
+#EXTINF:-1,|NL| Discovery World
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38623
+#EXTINF:-1,|NL| Crime & Investigation
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38624
+#EXTINF:-1,|NL| NPO Politiek/Best
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38625
+#EXTINF:-1,|NL| DISCOVERY
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38626
+#EXTINF:-1,|NL| Out TV HD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38627
+#EXTINF:-1,|NL| MTV Live HD 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38628
+#EXTINF:-1,|NL| MTV Music 24
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38629
+#EXTINF:-1,|NL| Dance Trippin TV 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38630
+#EXTINF:-1,|NL| SLAM! TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38631
+#EXTINF:-1,|NL| 100% NL TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38632
+#EXTINF:-1,|NL| TV Oranje HD+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38633
+#EXTINF:-1,|NL| XITE 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38634
+#EXTINF:-1,|NL| 192TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38635
+#EXTINF:-1,|NL| iConcerts
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38636
+#EXTINF:-1,|NL| Nick Music
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38638
+#EXTINF:-1,|NL| TV 538
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38639
+#EXTINF:-1,|NL| MTV 4K+
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38640
+#EXTINF:-1,|NL| Stingray Lite TV
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38641
+#EXTINF:-1,|NL| MTV 90s
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38642
+#EXTINF:-1,NL | Espn 1 ᴴᴰ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38643
+#EXTINF:-1,NL | Espn 2 ᴴᴰ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38644
+#EXTINF:-1,NL | Espn 3 ᴴᴰ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38645
+#EXTINF:-1,NL |  Ziggo Sport Golf  ᴴᴰ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38647
+#EXTINF:-1,NL |  Ziggo Sport Select  ᴴᴰ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38649
+#EXTINF:-1,NL |  Ziggo Select  ᴴᴰ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38650
+#EXTINF:-1,NL | Viaplay TV Guide ᵁᴴᴰ
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38651
+#EXTINF:-1,F1 | F1 TV ᶠʰᵈ NL
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/38652
+#EXTINF:-1,XXX: VENUS SD
+http://www.x-changer.org:80/bestiptv/Qvchd0hkQh/33435
